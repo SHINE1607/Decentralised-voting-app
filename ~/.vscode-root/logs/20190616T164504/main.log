@@ -1,0 +1,42 @@
+[2019-06-16 16:45:04.251] [main] [info] update#setState idle
+[2019-06-16 16:45:34.253] [main] [info] update#setState checking for updates
+[2019-06-16 16:45:35.228] [main] [info] update#setState idle
+[2019-06-16 18:36:59.707] [main] [info] update#setState checking for updates
+[2019-06-16 18:37:01.260] [main] [info] update#setState idle
+[2019-06-16 20:33:22.145] [main] [info] update#setState checking for updates
+[2019-06-16 20:33:23.888] [main] [info] update#setState idle
+[2019-06-16 21:33:22.180] [main] [info] update#setState checking for updates
+[2019-06-16 21:33:23.538] [main] [info] update#setState idle
+[2019-06-16 22:47:16.348] [main] [info] update#setState checking for updates
+[2019-06-16 22:47:17.851] [main] [info] update#setState idle
+[2019-06-17 00:20:49.595] [main] [info] update#setState checking for updates
+[2019-06-17 00:20:50.575] [main] [info] update#setState idle
+[2019-06-19 22:07:03.038] [main] [info] update#setState checking for updates
+[2019-06-19 22:07:04.019] [main] [info] update#setState idle
+[2019-06-19 23:07:13.029] [main] [info] update#setState checking for updates
+[2019-06-19 23:07:19.803] [main] [info] update#setState idle
+[2019-06-20 22:56:19.164] [main] [info] update#setState checking for updates
+[2019-06-20 22:56:20.606] [main] [info] update#setState idle
+[2019-06-21 00:13:38.223] [main] [info] update#setState checking for updates
+[2019-06-21 00:13:39.595] [main] [info] update#setState idle
+[2019-06-21 00:20:51.366] [main] [error] Error: ENOENT: no such file or directory, open '/Users/shinemohammed/Documents/dapp_vote/~/.vscode-root/storage.json'
+    at Object.fs.openSync (original-fs.js:577:3)
+    at Object.t.writeFileSync (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:145:146)
+    at d.saveSync (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:307:635)
+    at d.setItem (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:307:430)
+    at e.setItem (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:307:967)
+    at e.updateMenu (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:349:726)
+    at a.updateMenubar (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:361:366)
+    at i.call (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:244:802)
+    at _.onPromise (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:168:95)
+    at _.onRawMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:167:743)
+    at protocolListener.protocol.onMessage.e (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:167:309)
+    at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:53:207)
+    at e (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:49:31)
+    at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:53:207)
+    at e (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:49:177)
+    at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:53:207)
+    at EventEmitter.n (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:50:812)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/electron.asar/browser/api/web-contents.js:285:13)
+    at WebContents.emit (events.js:182:13)

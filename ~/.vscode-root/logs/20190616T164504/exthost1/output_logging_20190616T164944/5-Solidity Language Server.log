@@ -1,0 +1,3184 @@
+16:49:44.81 loading global solium
+16:49:44.89 loading global solc
+16:49:46.46 onDidChangeConfiguration
+16:49:46.46 validateAll
+16:49:46.46 document opened: Election.sol
+16:49:46.46 Skipping solium, .soliumrc.json not found
+16:49:46.46 validating Election.sol, solium done in 0s
+16:49:46.60 validating Election.sol, solc done in 0s
+16:49:46.60 document changed: Election.sol
+16:49:46.60 Skipping solium, .soliumrc.json not found
+16:49:46.60 validating Election.sol, solium done in 0s
+16:49:46.61 validating Election.sol, solc done in 0s
+16:50:12.59 document changed: Election.sol
+16:50:12.59 Skipping solium, .soliumrc.json not found
+16:50:12.59 validating Election.sol, solium done in 0s
+16:50:14.23 validating Election.sol, solc done in 1s
+16:50:14.23 document changed: Election.sol
+16:50:14.24 Skipping solium, .soliumrc.json not found
+16:50:14.24 validating Election.sol, solium done in 0s
+16:50:14.37 validating Election.sol, solc done in 0s
+16:50:14.49 document changed: Election.sol
+16:50:14.49 Skipping solium, .soliumrc.json not found
+16:50:14.49 validating Election.sol, solium done in 0s
+16:50:14.50 validating Election.sol, solc done in 0s
+16:50:15.12 document changed: Election.sol
+16:50:15.13 Skipping solium, .soliumrc.json not found
+16:50:15.13 validating Election.sol, solium done in 0s
+16:50:15.13 validating Election.sol, solc done in 0s
+16:50:16.70 document changed: Election.sol
+16:50:16.70 Skipping solium, .soliumrc.json not found
+16:50:16.70 validating Election.sol, solium done in 0s
+16:50:16.70 validating Election.sol, solc done in 0s
+16:50:17.06 document changed: Election.sol
+16:50:17.06 Skipping solium, .soliumrc.json not found
+16:50:17.06 validating Election.sol, solium done in 0s
+16:50:17.06 validating Election.sol, solc done in 0s
+16:50:27.92 document changed: Election.sol
+16:50:27.92 Skipping solium, .soliumrc.json not found
+16:50:27.92 validating Election.sol, solium done in 0s
+16:50:27.92 validating Election.sol, solc done in 0s
+16:50:28.51 document changed: Election.sol
+16:50:28.52 Skipping solium, .soliumrc.json not found
+16:50:28.52 validating Election.sol, solium done in 0s
+16:50:28.52 validating Election.sol, solc done in 0s
+16:50:28.74 document changed: Election.sol
+16:50:28.74 Skipping solium, .soliumrc.json not found
+16:50:28.74 validating Election.sol, solium done in 0s
+16:50:28.74 validating Election.sol, solc done in 0s
+16:50:29.76 document changed: Election.sol
+16:50:29.76 Skipping solium, .soliumrc.json not found
+16:50:29.76 validating Election.sol, solium done in 0s
+16:50:29.76 validating Election.sol, solc done in 0s
+16:50:30.80 document changed: Election.sol
+16:50:30.80 Skipping solium, .soliumrc.json not found
+16:50:30.80 validating Election.sol, solium done in 0s
+16:50:30.80 validating Election.sol, solc done in 0s
+16:50:32.69 document changed: Election.sol
+16:50:32.69 Skipping solium, .soliumrc.json not found
+16:50:32.69 validating Election.sol, solium done in 0s
+16:50:32.69 validating Election.sol, solc done in 0s
+16:50:33.16 document changed: Election.sol
+16:50:33.16 Skipping solium, .soliumrc.json not found
+16:50:33.16 validating Election.sol, solium done in 0s
+16:50:33.17 validating Election.sol, solc done in 0s
+16:50:33.17 document saved: Election.sol
+16:50:33.17 Skipping solium, .soliumrc.json not found
+16:50:33.17 validating Election.sol, solium done in 0s
+16:50:33.18 validating Election.sol, solc done in 0s
+16:50:33.38 document changed: Election.sol
+16:50:33.38 Skipping solium, .soliumrc.json not found
+16:50:33.38 validating Election.sol, solium done in 0s
+16:50:33.39 validating Election.sol, solc done in 0s
+16:50:33.39 document saved: Election.sol
+16:50:33.39 Skipping solium, .soliumrc.json not found
+16:50:33.39 validating Election.sol, solium done in 0s
+16:50:33.39 validating Election.sol, solc done in 0s
+16:50:33.58 document changed: Election.sol
+16:50:33.58 Skipping solium, .soliumrc.json not found
+16:50:33.58 validating Election.sol, solium done in 0s
+16:50:33.58 validating Election.sol, solc done in 0s
+16:50:33.58 document saved: Election.sol
+16:50:33.58 Skipping solium, .soliumrc.json not found
+16:50:33.58 validating Election.sol, solium done in 0s
+16:50:33.59 validating Election.sol, solc done in 0s
+16:50:34.20 document changed: Election.sol
+16:50:34.20 Skipping solium, .soliumrc.json not found
+16:50:34.20 validating Election.sol, solium done in 0s
+16:50:34.20 validating Election.sol, solc done in 0s
+16:50:34.20 document saved: Election.sol
+16:50:34.20 Skipping solium, .soliumrc.json not found
+16:50:34.20 validating Election.sol, solium done in 0s
+16:50:34.20 validating Election.sol, solc done in 0s
+16:50:34.48 document changed: Election.sol
+16:50:34.48 Skipping solium, .soliumrc.json not found
+16:50:34.48 validating Election.sol, solium done in 0s
+16:50:34.48 validating Election.sol, solc done in 0s
+16:50:34.49 document saved: Election.sol
+16:50:34.49 Skipping solium, .soliumrc.json not found
+16:50:34.49 validating Election.sol, solium done in 0s
+16:50:34.49 validating Election.sol, solc done in 0s
+17:08:29.90 document changed: Election.sol
+17:08:29.90 Skipping solium, .soliumrc.json not found
+17:08:29.90 validating Election.sol, solium done in 0s
+17:08:29.91 validating Election.sol, solc done in 0s
+17:08:29.91 document saved: Election.sol
+17:08:29.91 Skipping solium, .soliumrc.json not found
+17:08:29.91 validating Election.sol, solium done in 0s
+17:08:29.92 validating Election.sol, solc done in 0s
+17:08:30.09 document changed: Election.sol
+17:08:30.09 Skipping solium, .soliumrc.json not found
+17:08:30.09 validating Election.sol, solium done in 0s
+17:08:30.09 validating Election.sol, solc done in 0s
+17:08:30.10 document saved: Election.sol
+17:08:30.10 Skipping solium, .soliumrc.json not found
+17:08:30.10 validating Election.sol, solium done in 0s
+17:08:30.10 validating Election.sol, solc done in 0s
+17:08:30.22 document changed: Election.sol
+17:08:30.22 Skipping solium, .soliumrc.json not found
+17:08:30.22 validating Election.sol, solium done in 0s
+17:08:30.22 validating Election.sol, solc done in 0s
+17:08:30.22 document saved: Election.sol
+17:08:30.23 Skipping solium, .soliumrc.json not found
+17:08:30.23 validating Election.sol, solium done in 0s
+17:08:30.23 validating Election.sol, solc done in 0s
+17:08:30.36 document changed: Election.sol
+17:08:30.37 Skipping solium, .soliumrc.json not found
+17:08:30.37 validating Election.sol, solium done in 0s
+17:08:30.37 validating Election.sol, solc done in 0s
+17:08:30.37 document saved: Election.sol
+17:08:30.37 Skipping solium, .soliumrc.json not found
+17:08:30.37 validating Election.sol, solium done in 0s
+17:08:30.37 validating Election.sol, solc done in 0s
+17:08:30.51 document changed: Election.sol
+17:08:30.51 Skipping solium, .soliumrc.json not found
+17:08:30.51 validating Election.sol, solium done in 0s
+17:08:30.51 validating Election.sol, solc done in 0s
+17:08:30.51 document saved: Election.sol
+17:08:30.52 Skipping solium, .soliumrc.json not found
+17:08:30.52 validating Election.sol, solium done in 0s
+17:08:30.52 validating Election.sol, solc done in 0s
+17:08:30.67 document changed: Election.sol
+17:08:30.67 Skipping solium, .soliumrc.json not found
+17:08:30.67 validating Election.sol, solium done in 0s
+17:08:30.68 validating Election.sol, solc done in 0s
+17:08:30.68 document saved: Election.sol
+17:08:30.68 Skipping solium, .soliumrc.json not found
+17:08:30.68 validating Election.sol, solium done in 0s
+17:08:30.68 validating Election.sol, solc done in 0s
+17:08:47.99 document changed: Election.sol
+17:08:47.99 Skipping solium, .soliumrc.json not found
+17:08:47.99 validating Election.sol, solium done in 0s
+17:08:48.03 validating Election.sol, solc done in 0s
+17:08:50.95 document changed: Election.sol
+17:08:50.95 Skipping solium, .soliumrc.json not found
+17:08:50.95 validating Election.sol, solium done in 0s
+17:08:50.95 validating Election.sol, solc done in 0s
+17:08:51.39 document changed: Election.sol
+17:08:51.39 Skipping solium, .soliumrc.json not found
+17:08:51.39 validating Election.sol, solium done in 0s
+17:08:51.40 validating Election.sol, solc done in 0s
+17:08:51.80 document changed: Election.sol
+17:08:51.80 Skipping solium, .soliumrc.json not found
+17:08:51.80 validating Election.sol, solium done in 0s
+17:08:51.81 validating Election.sol, solc done in 0s
+17:08:56.59 document changed: Election.sol
+17:08:56.59 Skipping solium, .soliumrc.json not found
+17:08:56.59 validating Election.sol, solium done in 0s
+17:08:56.59 validating Election.sol, solc done in 0s
+17:08:57.20 document changed: Election.sol
+17:08:57.20 Skipping solium, .soliumrc.json not found
+17:08:57.20 validating Election.sol, solium done in 0s
+17:08:57.20 validating Election.sol, solc done in 0s
+17:08:57.83 document changed: Election.sol
+17:08:57.83 Skipping solium, .soliumrc.json not found
+17:08:57.83 validating Election.sol, solium done in 0s
+17:08:57.84 validating Election.sol, solc done in 0s
+17:08:58.19 document changed: Election.sol
+17:08:58.19 Skipping solium, .soliumrc.json not found
+17:08:58.19 validating Election.sol, solium done in 0s
+17:08:58.19 validating Election.sol, solc done in 0s
+17:08:59.85 document changed: Election.sol
+17:08:59.85 Skipping solium, .soliumrc.json not found
+17:08:59.85 validating Election.sol, solium done in 0s
+17:08:59.86 validating Election.sol, solc done in 0s
+17:08:59.86 document saved: Election.sol
+17:08:59.86 Skipping solium, .soliumrc.json not found
+17:08:59.86 validating Election.sol, solium done in 0s
+17:08:59.86 validating Election.sol, solc done in 0s
+17:09:00.04 document changed: Election.sol
+17:09:00.04 Skipping solium, .soliumrc.json not found
+17:09:00.04 validating Election.sol, solium done in 0s
+17:09:00.04 validating Election.sol, solc done in 0s
+17:09:00.04 document saved: Election.sol
+17:09:00.04 Skipping solium, .soliumrc.json not found
+17:09:00.04 validating Election.sol, solium done in 0s
+17:09:00.04 validating Election.sol, solc done in 0s
+17:09:00.20 document changed: Election.sol
+17:09:00.20 Skipping solium, .soliumrc.json not found
+17:09:00.20 validating Election.sol, solium done in 0s
+17:09:00.20 validating Election.sol, solc done in 0s
+17:09:00.20 document saved: Election.sol
+17:09:00.20 Skipping solium, .soliumrc.json not found
+17:09:00.20 validating Election.sol, solium done in 0s
+17:09:00.21 validating Election.sol, solc done in 0s
+17:09:00.32 document changed: Election.sol
+17:09:00.32 Skipping solium, .soliumrc.json not found
+17:09:00.32 validating Election.sol, solium done in 0s
+17:09:00.33 validating Election.sol, solc done in 0s
+17:09:00.33 document saved: Election.sol
+17:09:00.33 Skipping solium, .soliumrc.json not found
+17:09:00.33 validating Election.sol, solium done in 0s
+17:09:00.33 validating Election.sol, solc done in 0s
+17:09:00.48 document changed: Election.sol
+17:09:00.48 Skipping solium, .soliumrc.json not found
+17:09:00.48 validating Election.sol, solium done in 0s
+17:09:00.48 validating Election.sol, solc done in 0s
+17:09:00.49 document saved: Election.sol
+17:09:00.49 Skipping solium, .soliumrc.json not found
+17:09:00.49 validating Election.sol, solium done in 0s
+17:09:00.49 validating Election.sol, solc done in 0s
+17:09:04.47 document changed: Election.sol
+17:09:04.47 Skipping solium, .soliumrc.json not found
+17:09:04.47 validating Election.sol, solium done in 0s
+17:09:04.47 validating Election.sol, solc done in 0s
+17:09:05.34 document changed: Election.sol
+17:09:05.34 Skipping solium, .soliumrc.json not found
+17:09:05.34 validating Election.sol, solium done in 0s
+17:09:05.35 validating Election.sol, solc done in 0s
+17:09:05.54 document changed: Election.sol
+17:09:05.54 Skipping solium, .soliumrc.json not found
+17:09:05.54 validating Election.sol, solium done in 0s
+17:09:05.54 validating Election.sol, solc done in 0s
+17:09:05.54 document saved: Election.sol
+17:09:05.54 Skipping solium, .soliumrc.json not found
+17:09:05.54 validating Election.sol, solium done in 0s
+17:09:05.55 validating Election.sol, solc done in 0s
+17:09:05.75 document changed: Election.sol
+17:09:05.75 Skipping solium, .soliumrc.json not found
+17:09:05.75 validating Election.sol, solium done in 0s
+17:09:05.75 validating Election.sol, solc done in 0s
+17:09:05.75 document saved: Election.sol
+17:09:05.75 Skipping solium, .soliumrc.json not found
+17:09:05.75 validating Election.sol, solium done in 0s
+17:09:05.75 validating Election.sol, solc done in 0s
+17:09:05.90 document changed: Election.sol
+17:09:05.90 Skipping solium, .soliumrc.json not found
+17:09:05.90 validating Election.sol, solium done in 0s
+17:09:05.90 validating Election.sol, solc done in 0s
+17:09:05.90 document saved: Election.sol
+17:09:05.91 Skipping solium, .soliumrc.json not found
+17:09:05.91 validating Election.sol, solium done in 0s
+17:09:05.91 validating Election.sol, solc done in 0s
+18:51:10.06 document changed: Election.sol
+18:51:10.06 Skipping solium, .soliumrc.json not found
+18:51:10.06 validating Election.sol, solium done in 0s
+18:51:10.07 validating Election.sol, solc done in 0s
+18:51:11.20 document changed: Election.sol
+18:51:11.20 Skipping solium, .soliumrc.json not found
+18:51:11.20 validating Election.sol, solium done in 0s
+18:51:11.20 validating Election.sol, solc done in 0s
+18:51:11.98 document changed: Election.sol
+18:51:11.98 Skipping solium, .soliumrc.json not found
+18:51:11.98 validating Election.sol, solium done in 0s
+18:51:11.99 validating Election.sol, solc done in 0s
+18:51:12.20 document changed: Election.sol
+18:51:12.20 Skipping solium, .soliumrc.json not found
+18:51:12.20 validating Election.sol, solium done in 0s
+18:51:12.20 validating Election.sol, solc done in 0s
+18:51:12.89 document changed: Election.sol
+18:51:12.90 Skipping solium, .soliumrc.json not found
+18:51:12.90 validating Election.sol, solium done in 0s
+18:51:12.90 validating Election.sol, solc done in 0s
+18:51:13.73 document changed: Election.sol
+18:51:13.73 Skipping solium, .soliumrc.json not found
+18:51:13.73 validating Election.sol, solium done in 0s
+18:51:13.74 validating Election.sol, solc done in 0s
+18:51:15.69 document changed: Election.sol
+18:51:15.70 Skipping solium, .soliumrc.json not found
+18:51:15.70 validating Election.sol, solium done in 0s
+18:51:15.70 validating Election.sol, solc done in 0s
+18:51:17.32 document changed: Election.sol
+18:51:17.32 Skipping solium, .soliumrc.json not found
+18:51:17.32 validating Election.sol, solium done in 0s
+18:51:17.32 validating Election.sol, solc done in 0s
+18:51:18.78 document changed: Election.sol
+18:51:18.78 Skipping solium, .soliumrc.json not found
+18:51:18.78 validating Election.sol, solium done in 0s
+18:51:18.78 validating Election.sol, solc done in 0s
+18:51:19.12 document changed: Election.sol
+18:51:19.12 Skipping solium, .soliumrc.json not found
+18:51:19.12 validating Election.sol, solium done in 0s
+18:51:19.12 validating Election.sol, solc done in 0s
+18:51:19.87 document changed: Election.sol
+18:51:19.87 Skipping solium, .soliumrc.json not found
+18:51:19.87 validating Election.sol, solium done in 0s
+18:51:19.87 validating Election.sol, solc done in 0s
+18:51:20.63 document changed: Election.sol
+18:51:20.63 Skipping solium, .soliumrc.json not found
+18:51:20.63 validating Election.sol, solium done in 0s
+18:51:20.63 validating Election.sol, solc done in 0s
+18:51:20.84 document changed: Election.sol
+18:51:20.84 Skipping solium, .soliumrc.json not found
+18:51:20.84 validating Election.sol, solium done in 0s
+18:51:20.84 validating Election.sol, solc done in 0s
+18:51:21.26 document changed: Election.sol
+18:51:21.27 Skipping solium, .soliumrc.json not found
+18:51:21.27 validating Election.sol, solium done in 0s
+18:51:21.27 validating Election.sol, solc done in 0s
+18:51:21.85 document changed: Election.sol
+18:51:21.85 Skipping solium, .soliumrc.json not found
+18:51:21.85 validating Election.sol, solium done in 0s
+18:51:21.85 validating Election.sol, solc done in 0s
+18:51:22.36 document changed: Election.sol
+18:51:22.36 Skipping solium, .soliumrc.json not found
+18:51:22.36 validating Election.sol, solium done in 0s
+18:51:22.36 validating Election.sol, solc done in 0s
+18:51:24.62 document changed: Election.sol
+18:51:24.62 Skipping solium, .soliumrc.json not found
+18:51:24.62 validating Election.sol, solium done in 0s
+18:51:24.62 validating Election.sol, solc done in 0s
+18:51:37.16 document changed: Election.sol
+18:51:37.16 Skipping solium, .soliumrc.json not found
+18:51:37.16 validating Election.sol, solium done in 0s
+18:51:37.16 validating Election.sol, solc done in 0s
+18:51:37.38 document changed: Election.sol
+18:51:37.38 Skipping solium, .soliumrc.json not found
+18:51:37.38 validating Election.sol, solium done in 0s
+18:51:37.38 validating Election.sol, solc done in 0s
+18:51:37.82 document changed: Election.sol
+18:51:37.83 Skipping solium, .soliumrc.json not found
+18:51:37.83 validating Election.sol, solium done in 0s
+18:51:37.83 validating Election.sol, solc done in 0s
+18:51:39.28 document changed: Election.sol
+18:51:39.28 Skipping solium, .soliumrc.json not found
+18:51:39.28 validating Election.sol, solium done in 0s
+18:51:39.29 validating Election.sol, solc done in 0s
+18:51:39.87 document changed: Election.sol
+18:51:39.87 Skipping solium, .soliumrc.json not found
+18:51:39.87 validating Election.sol, solium done in 0s
+18:51:39.87 validating Election.sol, solc done in 0s
+18:51:40.12 document changed: Election.sol
+18:51:40.12 Skipping solium, .soliumrc.json not found
+18:51:40.12 validating Election.sol, solium done in 0s
+18:51:40.13 validating Election.sol, solc done in 0s
+18:51:40.42 document changed: Election.sol
+18:51:40.42 Skipping solium, .soliumrc.json not found
+18:51:40.42 validating Election.sol, solium done in 0s
+18:51:40.42 validating Election.sol, solc done in 0s
+18:51:42.93 document changed: Election.sol
+18:51:42.93 Skipping solium, .soliumrc.json not found
+18:51:42.93 validating Election.sol, solium done in 0s
+18:51:42.93 validating Election.sol, solc done in 0s
+18:51:43.37 document changed: Election.sol
+18:51:43.37 Skipping solium, .soliumrc.json not found
+18:51:43.37 validating Election.sol, solium done in 0s
+18:51:43.37 validating Election.sol, solc done in 0s
+18:51:46.50 document changed: Election.sol
+18:51:46.51 Skipping solium, .soliumrc.json not found
+18:51:46.51 validating Election.sol, solium done in 0s
+18:51:46.51 validating Election.sol, solc done in 0s
+18:51:47.06 document changed: Election.sol
+18:51:47.06 Skipping solium, .soliumrc.json not found
+18:51:47.06 validating Election.sol, solium done in 0s
+18:51:47.06 validating Election.sol, solc done in 0s
+18:51:47.37 document changed: Election.sol
+18:51:47.37 Skipping solium, .soliumrc.json not found
+18:51:47.37 validating Election.sol, solium done in 0s
+18:51:47.38 validating Election.sol, solc done in 0s
+18:51:47.85 document changed: Election.sol
+18:51:47.85 Skipping solium, .soliumrc.json not found
+18:51:47.85 validating Election.sol, solium done in 0s
+18:51:47.85 validating Election.sol, solc done in 0s
+18:51:48.24 document changed: Election.sol
+18:51:48.24 Skipping solium, .soliumrc.json not found
+18:51:48.24 validating Election.sol, solium done in 0s
+18:51:48.24 validating Election.sol, solc done in 0s
+18:51:48.46 document changed: Election.sol
+18:51:48.46 Skipping solium, .soliumrc.json not found
+18:51:48.46 validating Election.sol, solium done in 0s
+18:51:48.47 validating Election.sol, solc done in 0s
+18:51:49.90 document changed: Election.sol
+18:51:49.90 Skipping solium, .soliumrc.json not found
+18:51:49.90 validating Election.sol, solium done in 0s
+18:51:49.90 validating Election.sol, solc done in 0s
+18:51:50.80 document changed: Election.sol
+18:51:50.80 Skipping solium, .soliumrc.json not found
+18:51:50.80 validating Election.sol, solium done in 0s
+18:51:50.80 validating Election.sol, solc done in 0s
+18:51:51.18 document changed: Election.sol
+18:51:51.18 Skipping solium, .soliumrc.json not found
+18:51:51.18 validating Election.sol, solium done in 0s
+18:51:51.18 validating Election.sol, solc done in 0s
+18:51:51.43 document changed: Election.sol
+18:51:51.43 Skipping solium, .soliumrc.json not found
+18:51:51.43 validating Election.sol, solium done in 0s
+18:51:51.43 validating Election.sol, solc done in 0s
+18:51:52.23 document changed: Election.sol
+18:51:52.23 Skipping solium, .soliumrc.json not found
+18:51:52.23 validating Election.sol, solium done in 0s
+18:51:52.23 validating Election.sol, solc done in 0s
+18:51:52.92 document changed: Election.sol
+18:51:52.92 Skipping solium, .soliumrc.json not found
+18:51:52.92 validating Election.sol, solium done in 0s
+18:51:52.92 validating Election.sol, solc done in 0s
+18:51:53.75 document changed: Election.sol
+18:51:53.75 Skipping solium, .soliumrc.json not found
+18:51:53.75 validating Election.sol, solium done in 0s
+18:51:53.75 validating Election.sol, solc done in 0s
+18:51:54.03 document changed: Election.sol
+18:51:54.03 Skipping solium, .soliumrc.json not found
+18:51:54.03 validating Election.sol, solium done in 0s
+18:51:54.03 validating Election.sol, solc done in 0s
+18:51:54.19 document changed: Election.sol
+18:51:54.19 Skipping solium, .soliumrc.json not found
+18:51:54.19 validating Election.sol, solium done in 0s
+18:51:54.19 validating Election.sol, solc done in 0s
+18:51:54.21 document saved: Election.sol
+18:51:54.21 Skipping solium, .soliumrc.json not found
+18:51:54.21 validating Election.sol, solium done in 0s
+18:51:54.21 validating Election.sol, solc done in 0s
+18:51:54.36 document changed: Election.sol
+18:51:54.36 Skipping solium, .soliumrc.json not found
+18:51:54.36 validating Election.sol, solium done in 0s
+18:51:54.36 validating Election.sol, solc done in 0s
+18:51:54.36 document saved: Election.sol
+18:51:54.36 Skipping solium, .soliumrc.json not found
+18:51:54.36 validating Election.sol, solium done in 0s
+18:51:54.36 validating Election.sol, solc done in 0s
+18:51:58.81 document changed: Election.sol
+18:51:58.81 Skipping solium, .soliumrc.json not found
+18:51:58.81 validating Election.sol, solium done in 0s
+18:51:58.81 validating Election.sol, solc done in 0s
+18:52:03.01 document changed: Election.sol
+18:52:03.01 Skipping solium, .soliumrc.json not found
+18:52:03.01 validating Election.sol, solium done in 0s
+18:52:03.01 validating Election.sol, solc done in 0s
+18:52:06.60 document changed: Election.sol
+18:52:06.60 Skipping solium, .soliumrc.json not found
+18:52:06.60 validating Election.sol, solium done in 0s
+18:52:06.60 validating Election.sol, solc done in 0s
+18:52:13.54 document changed: Election.sol
+18:52:13.55 Skipping solium, .soliumrc.json not found
+18:52:13.55 validating Election.sol, solium done in 0s
+18:52:13.55 validating Election.sol, solc done in 0s
+18:52:16.25 document changed: Election.sol
+18:52:16.25 Skipping solium, .soliumrc.json not found
+18:52:16.25 validating Election.sol, solium done in 0s
+18:52:16.25 validating Election.sol, solc done in 0s
+18:52:16.93 document changed: Election.sol
+18:52:16.94 Skipping solium, .soliumrc.json not found
+18:52:16.94 validating Election.sol, solium done in 0s
+18:52:16.94 validating Election.sol, solc done in 0s
+18:52:17.39 document changed: Election.sol
+18:52:17.39 Skipping solium, .soliumrc.json not found
+18:52:17.39 validating Election.sol, solium done in 0s
+18:52:17.39 validating Election.sol, solc done in 0s
+18:52:18.52 document changed: Election.sol
+18:52:18.52 Skipping solium, .soliumrc.json not found
+18:52:18.52 validating Election.sol, solium done in 0s
+18:52:18.52 validating Election.sol, solc done in 0s
+18:52:18.74 document changed: Election.sol
+18:52:18.75 Skipping solium, .soliumrc.json not found
+18:52:18.75 validating Election.sol, solium done in 0s
+18:52:18.75 validating Election.sol, solc done in 0s
+18:52:19.57 document changed: Election.sol
+18:52:19.57 Skipping solium, .soliumrc.json not found
+18:52:19.57 validating Election.sol, solium done in 0s
+18:52:19.57 validating Election.sol, solc done in 0s
+18:52:19.93 document changed: Election.sol
+18:52:19.93 Skipping solium, .soliumrc.json not found
+18:52:19.93 validating Election.sol, solium done in 0s
+18:52:19.93 validating Election.sol, solc done in 0s
+18:52:20.31 document changed: Election.sol
+18:52:20.31 Skipping solium, .soliumrc.json not found
+18:52:20.31 validating Election.sol, solium done in 0s
+18:52:20.31 validating Election.sol, solc done in 0s
+18:52:23.64 document changed: Election.sol
+18:52:23.64 Skipping solium, .soliumrc.json not found
+18:52:23.64 validating Election.sol, solium done in 0s
+18:52:23.64 validating Election.sol, solc done in 0s
+18:52:24.00 document changed: Election.sol
+18:52:24.00 Skipping solium, .soliumrc.json not found
+18:52:24.00 validating Election.sol, solium done in 0s
+18:52:24.00 validating Election.sol, solc done in 0s
+18:52:24.83 document changed: Election.sol
+18:52:24.83 Skipping solium, .soliumrc.json not found
+18:52:24.83 validating Election.sol, solium done in 0s
+18:52:24.84 validating Election.sol, solc done in 0s
+18:52:25.09 document changed: Election.sol
+18:52:25.09 Skipping solium, .soliumrc.json not found
+18:52:25.09 validating Election.sol, solium done in 0s
+18:52:25.09 validating Election.sol, solc done in 0s
+18:52:25.37 document changed: Election.sol
+18:52:25.37 Skipping solium, .soliumrc.json not found
+18:52:25.37 validating Election.sol, solium done in 0s
+18:52:25.37 validating Election.sol, solc done in 0s
+18:52:25.69 document changed: Election.sol
+18:52:25.69 Skipping solium, .soliumrc.json not found
+18:52:25.69 validating Election.sol, solium done in 0s
+18:52:25.69 validating Election.sol, solc done in 0s
+18:52:25.91 document changed: Election.sol
+18:52:25.91 Skipping solium, .soliumrc.json not found
+18:52:25.91 validating Election.sol, solium done in 0s
+18:52:25.91 validating Election.sol, solc done in 0s
+18:52:28.55 document changed: Election.sol
+18:52:28.55 Skipping solium, .soliumrc.json not found
+18:52:28.55 validating Election.sol, solium done in 0s
+18:52:28.55 validating Election.sol, solc done in 0s
+18:52:29.76 document changed: Election.sol
+18:52:29.76 Skipping solium, .soliumrc.json not found
+18:52:29.76 validating Election.sol, solium done in 0s
+18:52:29.76 validating Election.sol, solc done in 0s
+18:52:29.98 document changed: Election.sol
+18:52:29.98 Skipping solium, .soliumrc.json not found
+18:52:29.98 validating Election.sol, solium done in 0s
+18:52:29.98 validating Election.sol, solc done in 0s
+18:52:30.23 document changed: Election.sol
+18:52:30.23 Skipping solium, .soliumrc.json not found
+18:52:30.23 validating Election.sol, solium done in 0s
+18:52:30.23 validating Election.sol, solc done in 0s
+18:52:30.71 document changed: Election.sol
+18:52:30.72 Skipping solium, .soliumrc.json not found
+18:52:30.72 validating Election.sol, solium done in 0s
+18:52:30.72 validating Election.sol, solc done in 0s
+18:52:31.24 document changed: Election.sol
+18:52:31.24 Skipping solium, .soliumrc.json not found
+18:52:31.24 validating Election.sol, solium done in 0s
+18:52:31.24 validating Election.sol, solc done in 0s
+18:52:31.92 document changed: Election.sol
+18:52:31.92 Skipping solium, .soliumrc.json not found
+18:52:31.92 validating Election.sol, solium done in 0s
+18:52:31.92 validating Election.sol, solc done in 0s
+18:52:34.86 document changed: Election.sol
+18:52:34.86 Skipping solium, .soliumrc.json not found
+18:52:34.86 validating Election.sol, solium done in 0s
+18:52:34.86 validating Election.sol, solc done in 0s
+18:52:35.45 document changed: Election.sol
+18:52:35.45 Skipping solium, .soliumrc.json not found
+18:52:35.45 validating Election.sol, solium done in 0s
+18:52:35.45 validating Election.sol, solc done in 0s
+18:52:36.78 document changed: Election.sol
+18:52:36.78 Skipping solium, .soliumrc.json not found
+18:52:36.78 validating Election.sol, solium done in 0s
+18:52:36.79 validating Election.sol, solc done in 0s
+18:52:36.79 document changed: Election.sol
+18:52:36.80 Skipping solium, .soliumrc.json not found
+18:52:36.80 validating Election.sol, solium done in 0s
+18:52:36.80 validating Election.sol, solc done in 0s
+18:52:36.80 document saved: Election.sol
+18:52:36.80 Skipping solium, .soliumrc.json not found
+18:52:36.80 validating Election.sol, solium done in 0s
+18:52:36.80 validating Election.sol, solc done in 0s
+18:52:36.98 document changed: Election.sol
+18:52:36.98 Skipping solium, .soliumrc.json not found
+18:52:36.98 validating Election.sol, solium done in 0s
+18:52:36.99 validating Election.sol, solc done in 0s
+18:52:36.99 document saved: Election.sol
+18:52:36.99 Skipping solium, .soliumrc.json not found
+18:52:36.99 validating Election.sol, solium done in 0s
+18:52:36.99 validating Election.sol, solc done in 0s
+18:52:37.17 document changed: Election.sol
+18:52:37.17 Skipping solium, .soliumrc.json not found
+18:52:37.17 validating Election.sol, solium done in 0s
+18:52:37.17 validating Election.sol, solc done in 0s
+18:52:37.17 document saved: Election.sol
+18:52:37.17 Skipping solium, .soliumrc.json not found
+18:52:37.17 validating Election.sol, solium done in 0s
+18:52:37.17 validating Election.sol, solc done in 0s
+18:52:44.34 document changed: Election.sol
+18:52:44.34 Skipping solium, .soliumrc.json not found
+18:52:44.34 validating Election.sol, solium done in 0s
+18:52:44.34 validating Election.sol, solc done in 0s
+18:52:45.38 document changed: Election.sol
+18:52:45.38 Skipping solium, .soliumrc.json not found
+18:52:45.38 validating Election.sol, solium done in 0s
+18:52:45.39 validating Election.sol, solc done in 0s
+18:52:46.14 document changed: Election.sol
+18:52:46.14 Skipping solium, .soliumrc.json not found
+18:52:46.14 validating Election.sol, solium done in 0s
+18:52:46.14 validating Election.sol, solc done in 0s
+18:52:46.38 document changed: Election.sol
+18:52:46.38 Skipping solium, .soliumrc.json not found
+18:52:46.38 validating Election.sol, solium done in 0s
+18:52:46.38 validating Election.sol, solc done in 0s
+18:52:46.61 document changed: Election.sol
+18:52:46.61 Skipping solium, .soliumrc.json not found
+18:52:46.61 validating Election.sol, solium done in 0s
+18:52:46.61 validating Election.sol, solc done in 0s
+18:52:47.18 document changed: Election.sol
+18:52:47.18 Skipping solium, .soliumrc.json not found
+18:52:47.18 validating Election.sol, solium done in 0s
+18:52:47.18 validating Election.sol, solc done in 0s
+18:52:48.08 document changed: Election.sol
+18:52:48.08 Skipping solium, .soliumrc.json not found
+18:52:48.08 validating Election.sol, solium done in 0s
+18:52:48.09 validating Election.sol, solc done in 0s
+18:52:48.58 document changed: Election.sol
+18:52:48.58 Skipping solium, .soliumrc.json not found
+18:52:48.58 validating Election.sol, solium done in 0s
+18:52:48.58 validating Election.sol, solc done in 0s
+18:52:49.16 document changed: Election.sol
+18:52:49.16 Skipping solium, .soliumrc.json not found
+18:52:49.16 validating Election.sol, solium done in 0s
+18:52:49.16 validating Election.sol, solc done in 0s
+18:52:50.17 document changed: Election.sol
+18:52:50.17 Skipping solium, .soliumrc.json not found
+18:52:50.17 validating Election.sol, solium done in 0s
+18:52:50.17 validating Election.sol, solc done in 0s
+18:52:50.70 document changed: Election.sol
+18:52:50.70 Skipping solium, .soliumrc.json not found
+18:52:50.70 validating Election.sol, solium done in 0s
+18:52:50.70 validating Election.sol, solc done in 0s
+18:52:51.23 document changed: Election.sol
+18:52:51.23 Skipping solium, .soliumrc.json not found
+18:52:51.23 validating Election.sol, solium done in 0s
+18:52:51.23 validating Election.sol, solc done in 0s
+18:52:52.66 document changed: Election.sol
+18:52:52.66 Skipping solium, .soliumrc.json not found
+18:52:52.66 validating Election.sol, solium done in 0s
+18:52:52.66 validating Election.sol, solc done in 0s
+18:52:53.28 document changed: Election.sol
+18:52:53.28 Skipping solium, .soliumrc.json not found
+18:52:53.28 validating Election.sol, solium done in 0s
+18:52:53.28 validating Election.sol, solc done in 0s
+18:52:53.56 document changed: Election.sol
+18:52:53.56 Skipping solium, .soliumrc.json not found
+18:52:53.56 validating Election.sol, solium done in 0s
+18:52:53.57 validating Election.sol, solc done in 0s
+18:52:54.48 document changed: Election.sol
+18:52:54.48 Skipping solium, .soliumrc.json not found
+18:52:54.48 validating Election.sol, solium done in 0s
+18:52:54.48 validating Election.sol, solc done in 0s
+18:52:54.92 document changed: Election.sol
+18:52:54.92 Skipping solium, .soliumrc.json not found
+18:52:54.92 validating Election.sol, solium done in 0s
+18:52:54.92 validating Election.sol, solc done in 0s
+18:52:55.41 document changed: Election.sol
+18:52:55.41 Skipping solium, .soliumrc.json not found
+18:52:55.41 validating Election.sol, solium done in 0s
+18:52:55.41 validating Election.sol, solc done in 0s
+18:52:55.76 document changed: Election.sol
+18:52:55.76 Skipping solium, .soliumrc.json not found
+18:52:55.76 validating Election.sol, solium done in 0s
+18:52:55.76 validating Election.sol, solc done in 0s
+18:52:56.43 document changed: Election.sol
+18:52:56.43 Skipping solium, .soliumrc.json not found
+18:52:56.43 validating Election.sol, solium done in 0s
+18:52:56.43 validating Election.sol, solc done in 0s
+18:52:56.93 document changed: Election.sol
+18:52:56.93 Skipping solium, .soliumrc.json not found
+18:52:56.93 validating Election.sol, solium done in 0s
+18:52:56.93 validating Election.sol, solc done in 0s
+18:52:58.14 document changed: Election.sol
+18:52:58.14 Skipping solium, .soliumrc.json not found
+18:52:58.14 validating Election.sol, solium done in 0s
+18:52:58.14 validating Election.sol, solc done in 0s
+18:52:58.14 document saved: Election.sol
+18:52:58.14 Skipping solium, .soliumrc.json not found
+18:52:58.14 validating Election.sol, solium done in 0s
+18:52:58.14 validating Election.sol, solc done in 0s
+18:52:58.31 document changed: Election.sol
+18:52:58.31 Skipping solium, .soliumrc.json not found
+18:52:58.31 validating Election.sol, solium done in 0s
+18:52:58.31 validating Election.sol, solc done in 0s
+18:52:58.32 document saved: Election.sol
+18:52:58.32 Skipping solium, .soliumrc.json not found
+18:52:58.32 validating Election.sol, solium done in 0s
+18:52:58.32 validating Election.sol, solc done in 0s
+18:53:03.36 document changed: Election.sol
+18:53:03.36 Skipping solium, .soliumrc.json not found
+18:53:03.36 validating Election.sol, solium done in 0s
+18:53:03.36 validating Election.sol, solc done in 0s
+18:53:06.99 document changed: Election.sol
+18:53:06.99 Skipping solium, .soliumrc.json not found
+18:53:06.99 validating Election.sol, solium done in 0s
+18:53:06.99 validating Election.sol, solc done in 0s
+18:53:07.30 document changed: Election.sol
+18:53:07.30 Skipping solium, .soliumrc.json not found
+18:53:07.30 validating Election.sol, solium done in 0s
+18:53:07.30 validating Election.sol, solc done in 0s
+18:53:07.67 document changed: Election.sol
+18:53:07.67 Skipping solium, .soliumrc.json not found
+18:53:07.67 validating Election.sol, solium done in 0s
+18:53:07.67 validating Election.sol, solc done in 0s
+18:53:08.72 document changed: Election.sol
+18:53:08.72 Skipping solium, .soliumrc.json not found
+18:53:08.73 validating Election.sol, solium done in 0s
+18:53:08.73 validating Election.sol, solc done in 0s
+18:53:11.69 document changed: Election.sol
+18:53:11.69 Skipping solium, .soliumrc.json not found
+18:53:11.69 validating Election.sol, solium done in 0s
+18:53:11.69 validating Election.sol, solc done in 0s
+18:53:12.77 document changed: Election.sol
+18:53:12.77 Skipping solium, .soliumrc.json not found
+18:53:12.77 validating Election.sol, solium done in 0s
+18:53:12.77 validating Election.sol, solc done in 0s
+18:53:13.38 document changed: Election.sol
+18:53:13.38 Skipping solium, .soliumrc.json not found
+18:53:13.38 validating Election.sol, solium done in 0s
+18:53:13.38 validating Election.sol, solc done in 0s
+18:53:15.67 document changed: Election.sol
+18:53:15.67 Skipping solium, .soliumrc.json not found
+18:53:15.67 validating Election.sol, solium done in 0s
+18:53:15.67 validating Election.sol, solc done in 0s
+18:53:17.02 document changed: Election.sol
+18:53:17.02 Skipping solium, .soliumrc.json not found
+18:53:17.02 validating Election.sol, solium done in 0s
+18:53:17.02 validating Election.sol, solc done in 0s
+18:53:17.25 document changed: Election.sol
+18:53:17.25 Skipping solium, .soliumrc.json not found
+18:53:17.25 validating Election.sol, solium done in 0s
+18:53:17.26 validating Election.sol, solc done in 0s
+18:53:17.60 document changed: Election.sol
+18:53:17.60 Skipping solium, .soliumrc.json not found
+18:53:17.60 validating Election.sol, solium done in 0s
+18:53:17.60 validating Election.sol, solc done in 0s
+18:53:19.35 document changed: Election.sol
+18:53:19.35 Skipping solium, .soliumrc.json not found
+18:53:19.35 validating Election.sol, solium done in 0s
+18:53:19.35 validating Election.sol, solc done in 0s
+18:53:19.72 document changed: Election.sol
+18:53:19.72 Skipping solium, .soliumrc.json not found
+18:53:19.72 validating Election.sol, solium done in 0s
+18:53:19.72 validating Election.sol, solc done in 0s
+18:53:24.61 document changed: Election.sol
+18:53:24.61 Skipping solium, .soliumrc.json not found
+18:53:24.61 validating Election.sol, solium done in 0s
+18:53:24.61 validating Election.sol, solc done in 0s
+18:53:24.74 document changed: Election.sol
+18:53:24.74 Skipping solium, .soliumrc.json not found
+18:53:24.74 validating Election.sol, solium done in 0s
+18:53:24.74 validating Election.sol, solc done in 0s
+18:53:24.74 document saved: Election.sol
+18:53:24.74 Skipping solium, .soliumrc.json not found
+18:53:24.74 validating Election.sol, solium done in 0s
+18:53:24.75 validating Election.sol, solc done in 0s
+18:53:24.96 document changed: Election.sol
+18:53:24.97 Skipping solium, .soliumrc.json not found
+18:53:24.97 validating Election.sol, solium done in 0s
+18:53:24.97 validating Election.sol, solc done in 0s
+18:53:24.97 document saved: Election.sol
+18:53:24.97 Skipping solium, .soliumrc.json not found
+18:53:24.97 validating Election.sol, solium done in 0s
+18:53:24.97 validating Election.sol, solc done in 0s
+18:53:30.88 document changed: Election.sol
+18:53:30.89 Skipping solium, .soliumrc.json not found
+18:53:30.89 validating Election.sol, solium done in 0s
+18:53:30.89 validating Election.sol, solc done in 0s
+18:53:32.02 document changed: Election.sol
+18:53:32.02 Skipping solium, .soliumrc.json not found
+18:53:32.02 validating Election.sol, solium done in 0s
+18:53:32.02 validating Election.sol, solc done in 0s
+18:53:36.06 document changed: Election.sol
+18:53:36.06 Skipping solium, .soliumrc.json not found
+18:53:36.06 validating Election.sol, solium done in 0s
+18:53:36.06 validating Election.sol, solc done in 0s
+18:53:36.40 document changed: Election.sol
+18:53:36.40 Skipping solium, .soliumrc.json not found
+18:53:36.40 validating Election.sol, solium done in 0s
+18:53:36.40 validating Election.sol, solc done in 0s
+18:53:36.87 document changed: Election.sol
+18:53:36.87 Skipping solium, .soliumrc.json not found
+18:53:36.87 validating Election.sol, solium done in 0s
+18:53:36.88 validating Election.sol, solc done in 0s
+18:53:37.31 document changed: Election.sol
+18:53:37.31 Skipping solium, .soliumrc.json not found
+18:53:37.31 validating Election.sol, solium done in 0s
+18:53:37.32 validating Election.sol, solc done in 0s
+18:53:37.70 document changed: Election.sol
+18:53:37.70 Skipping solium, .soliumrc.json not found
+18:53:37.70 validating Election.sol, solium done in 0s
+18:53:37.70 validating Election.sol, solc done in 0s
+18:53:38.50 document changed: Election.sol
+18:53:38.50 Skipping solium, .soliumrc.json not found
+18:53:38.50 validating Election.sol, solium done in 0s
+18:53:38.50 validating Election.sol, solc done in 0s
+18:53:39.26 document changed: Election.sol
+18:53:39.26 Skipping solium, .soliumrc.json not found
+18:53:39.26 validating Election.sol, solium done in 0s
+18:53:39.26 validating Election.sol, solc done in 0s
+18:53:39.49 document changed: Election.sol
+18:53:39.49 Skipping solium, .soliumrc.json not found
+18:53:39.49 validating Election.sol, solium done in 0s
+18:53:39.49 validating Election.sol, solc done in 0s
+18:53:40.17 document changed: Election.sol
+18:53:40.17 Skipping solium, .soliumrc.json not found
+18:53:40.17 validating Election.sol, solium done in 0s
+18:53:40.18 validating Election.sol, solc done in 0s
+18:53:40.56 document changed: Election.sol
+18:53:40.56 Skipping solium, .soliumrc.json not found
+18:53:40.56 validating Election.sol, solium done in 0s
+18:53:40.56 validating Election.sol, solc done in 0s
+18:53:40.98 document changed: Election.sol
+18:53:40.98 Skipping solium, .soliumrc.json not found
+18:53:40.98 validating Election.sol, solium done in 0s
+18:53:40.98 validating Election.sol, solc done in 0s
+18:53:41.64 document changed: Election.sol
+18:53:41.65 Skipping solium, .soliumrc.json not found
+18:53:41.65 validating Election.sol, solium done in 0s
+18:53:41.65 validating Election.sol, solc done in 0s
+18:53:41.85 document changed: Election.sol
+18:53:41.85 Skipping solium, .soliumrc.json not found
+18:53:41.85 validating Election.sol, solium done in 0s
+18:53:41.85 validating Election.sol, solc done in 0s
+18:53:45.89 document changed: Election.sol
+18:53:45.89 Skipping solium, .soliumrc.json not found
+18:53:45.89 validating Election.sol, solium done in 0s
+18:53:45.89 validating Election.sol, solc done in 0s
+18:53:46.33 document changed: Election.sol
+18:53:46.33 Skipping solium, .soliumrc.json not found
+18:53:46.33 validating Election.sol, solium done in 0s
+18:53:46.34 validating Election.sol, solc done in 0s
+18:53:46.88 document changed: Election.sol
+18:53:46.88 Skipping solium, .soliumrc.json not found
+18:53:46.88 validating Election.sol, solium done in 0s
+18:53:46.88 validating Election.sol, solc done in 0s
+18:53:47.25 document changed: Election.sol
+18:53:47.25 Skipping solium, .soliumrc.json not found
+18:53:47.25 validating Election.sol, solium done in 0s
+18:53:47.25 validating Election.sol, solc done in 0s
+18:53:47.71 document changed: Election.sol
+18:53:47.71 Skipping solium, .soliumrc.json not found
+18:53:47.71 validating Election.sol, solium done in 0s
+18:53:47.71 validating Election.sol, solc done in 0s
+18:53:48.09 document changed: Election.sol
+18:53:48.10 Skipping solium, .soliumrc.json not found
+18:53:48.10 validating Election.sol, solium done in 0s
+18:53:48.10 validating Election.sol, solc done in 0s
+18:53:48.46 document changed: Election.sol
+18:53:48.46 Skipping solium, .soliumrc.json not found
+18:53:48.47 validating Election.sol, solium done in 0s
+18:53:48.47 validating Election.sol, solc done in 0s
+18:53:50.53 document changed: Election.sol
+18:53:50.53 Skipping solium, .soliumrc.json not found
+18:53:50.53 validating Election.sol, solium done in 0s
+18:53:50.53 validating Election.sol, solc done in 0s
+18:53:51.95 document changed: Election.sol
+18:53:51.95 Skipping solium, .soliumrc.json not found
+18:53:51.95 validating Election.sol, solium done in 0s
+18:53:51.95 validating Election.sol, solc done in 0s
+18:53:52.91 document changed: Election.sol
+18:53:52.91 Skipping solium, .soliumrc.json not found
+18:53:52.91 validating Election.sol, solium done in 0s
+18:53:52.92 validating Election.sol, solc done in 0s
+18:53:53.61 document changed: Election.sol
+18:53:53.61 Skipping solium, .soliumrc.json not found
+18:53:53.61 validating Election.sol, solium done in 0s
+18:53:53.61 validating Election.sol, solc done in 0s
+18:53:53.90 document changed: Election.sol
+18:53:53.90 Skipping solium, .soliumrc.json not found
+18:53:53.90 validating Election.sol, solium done in 0s
+18:53:53.90 validating Election.sol, solc done in 0s
+18:53:54.47 document changed: Election.sol
+18:53:54.47 Skipping solium, .soliumrc.json not found
+18:53:54.47 validating Election.sol, solium done in 0s
+18:53:54.47 validating Election.sol, solc done in 0s
+18:53:54.98 document changed: Election.sol
+18:53:54.98 Skipping solium, .soliumrc.json not found
+18:53:54.98 validating Election.sol, solium done in 0s
+18:53:54.98 validating Election.sol, solc done in 0s
+18:53:57.21 document changed: Election.sol
+18:53:57.21 Skipping solium, .soliumrc.json not found
+18:53:57.21 validating Election.sol, solium done in 0s
+18:53:57.21 validating Election.sol, solc done in 0s
+18:53:57.63 document changed: Election.sol
+18:53:57.63 Skipping solium, .soliumrc.json not found
+18:53:57.63 validating Election.sol, solium done in 0s
+18:53:57.63 validating Election.sol, solc done in 0s
+18:54:00.55 document changed: Election.sol
+18:54:00.55 Skipping solium, .soliumrc.json not found
+18:54:00.55 validating Election.sol, solium done in 0s
+18:54:00.55 validating Election.sol, solc done in 0s
+18:54:01.09 document changed: Election.sol
+18:54:01.09 Skipping solium, .soliumrc.json not found
+18:54:01.09 validating Election.sol, solium done in 0s
+18:54:01.09 validating Election.sol, solc done in 0s
+18:54:02.11 document changed: Election.sol
+18:54:02.11 Skipping solium, .soliumrc.json not found
+18:54:02.11 validating Election.sol, solium done in 0s
+18:54:02.11 validating Election.sol, solc done in 0s
+18:54:03.45 document changed: Election.sol
+18:54:03.45 Skipping solium, .soliumrc.json not found
+18:54:03.45 validating Election.sol, solium done in 0s
+18:54:03.46 validating Election.sol, solc done in 0s
+18:54:03.66 document changed: Election.sol
+18:54:03.66 Skipping solium, .soliumrc.json not found
+18:54:03.66 validating Election.sol, solium done in 0s
+18:54:03.66 validating Election.sol, solc done in 0s
+18:54:04.80 document changed: Election.sol
+18:54:04.80 Skipping solium, .soliumrc.json not found
+18:54:04.80 validating Election.sol, solium done in 0s
+18:54:04.80 validating Election.sol, solc done in 0s
+18:54:05.11 document changed: Election.sol
+18:54:05.12 Skipping solium, .soliumrc.json not found
+18:54:05.12 validating Election.sol, solium done in 0s
+18:54:05.12 validating Election.sol, solc done in 0s
+18:54:07.02 document changed: Election.sol
+18:54:07.02 Skipping solium, .soliumrc.json not found
+18:54:07.02 validating Election.sol, solium done in 0s
+18:54:07.03 validating Election.sol, solc done in 0s
+18:54:07.73 document changed: Election.sol
+18:54:07.74 Skipping solium, .soliumrc.json not found
+18:54:07.74 validating Election.sol, solium done in 0s
+18:54:07.74 validating Election.sol, solc done in 0s
+18:54:10.19 document changed: Election.sol
+18:54:10.19 Skipping solium, .soliumrc.json not found
+18:54:10.19 validating Election.sol, solium done in 0s
+18:54:10.19 validating Election.sol, solc done in 0s
+18:54:10.60 document changed: Election.sol
+18:54:10.61 Skipping solium, .soliumrc.json not found
+18:54:10.61 validating Election.sol, solium done in 0s
+18:54:10.61 validating Election.sol, solc done in 0s
+18:54:11.08 document changed: Election.sol
+18:54:11.08 Skipping solium, .soliumrc.json not found
+18:54:11.08 validating Election.sol, solium done in 0s
+18:54:11.08 validating Election.sol, solc done in 0s
+18:54:11.39 document changed: Election.sol
+18:54:11.40 Skipping solium, .soliumrc.json not found
+18:54:11.40 validating Election.sol, solium done in 0s
+18:54:11.40 validating Election.sol, solc done in 0s
+18:54:11.97 document changed: Election.sol
+18:54:11.97 Skipping solium, .soliumrc.json not found
+18:54:11.97 validating Election.sol, solium done in 0s
+18:54:11.98 validating Election.sol, solc done in 0s
+18:54:12.51 document changed: Election.sol
+18:54:12.51 Skipping solium, .soliumrc.json not found
+18:54:12.51 validating Election.sol, solium done in 0s
+18:54:12.51 validating Election.sol, solc done in 0s
+18:54:16.81 document changed: Election.sol
+18:54:16.81 Skipping solium, .soliumrc.json not found
+18:54:16.81 validating Election.sol, solium done in 0s
+18:54:16.81 validating Election.sol, solc done in 0s
+18:54:17.89 document changed: Election.sol
+18:54:17.89 Skipping solium, .soliumrc.json not found
+18:54:17.89 validating Election.sol, solium done in 0s
+18:54:17.89 validating Election.sol, solc done in 0s
+18:54:18.37 document changed: Election.sol
+18:54:18.37 Skipping solium, .soliumrc.json not found
+18:54:18.37 validating Election.sol, solium done in 0s
+18:54:18.38 validating Election.sol, solc done in 0s
+18:54:18.88 document changed: Election.sol
+18:54:18.88 Skipping solium, .soliumrc.json not found
+18:54:18.88 validating Election.sol, solium done in 0s
+18:54:18.88 validating Election.sol, solc done in 0s
+18:54:19.36 document changed: Election.sol
+18:54:19.36 Skipping solium, .soliumrc.json not found
+18:54:19.36 validating Election.sol, solium done in 0s
+18:54:19.36 validating Election.sol, solc done in 0s
+18:54:19.71 document changed: Election.sol
+18:54:19.71 Skipping solium, .soliumrc.json not found
+18:54:19.71 validating Election.sol, solium done in 0s
+18:54:19.72 validating Election.sol, solc done in 0s
+18:54:20.51 document changed: Election.sol
+18:54:20.51 Skipping solium, .soliumrc.json not found
+18:54:20.51 validating Election.sol, solium done in 0s
+18:54:20.51 validating Election.sol, solc done in 0s
+18:54:21.39 document changed: Election.sol
+18:54:21.39 Skipping solium, .soliumrc.json not found
+18:54:21.39 validating Election.sol, solium done in 0s
+18:54:21.39 validating Election.sol, solc done in 0s
+18:54:22.14 document changed: Election.sol
+18:54:22.14 Skipping solium, .soliumrc.json not found
+18:54:22.14 validating Election.sol, solium done in 0s
+18:54:22.15 validating Election.sol, solc done in 0s
+18:54:23.02 document changed: Election.sol
+18:54:23.02 Skipping solium, .soliumrc.json not found
+18:54:23.02 validating Election.sol, solium done in 0s
+18:54:23.02 validating Election.sol, solc done in 0s
+18:54:23.73 document changed: Election.sol
+18:54:23.73 Skipping solium, .soliumrc.json not found
+18:54:23.73 validating Election.sol, solium done in 0s
+18:54:23.73 validating Election.sol, solc done in 0s
+18:54:24.16 document changed: Election.sol
+18:54:24.16 Skipping solium, .soliumrc.json not found
+18:54:24.16 validating Election.sol, solium done in 0s
+18:54:24.16 validating Election.sol, solc done in 0s
+18:54:24.57 document changed: Election.sol
+18:54:24.57 Skipping solium, .soliumrc.json not found
+18:54:24.57 validating Election.sol, solium done in 0s
+18:54:24.57 validating Election.sol, solc done in 0s
+18:54:32.25 document changed: Election.sol
+18:54:32.25 Skipping solium, .soliumrc.json not found
+18:54:32.25 validating Election.sol, solium done in 0s
+18:54:32.25 validating Election.sol, solc done in 0s
+18:54:33.09 document changed: Election.sol
+18:54:33.10 Skipping solium, .soliumrc.json not found
+18:54:33.10 validating Election.sol, solium done in 0s
+18:54:33.10 validating Election.sol, solc done in 0s
+18:54:33.94 document changed: Election.sol
+18:54:33.94 Skipping solium, .soliumrc.json not found
+18:54:33.94 validating Election.sol, solium done in 0s
+18:54:33.94 validating Election.sol, solc done in 0s
+18:54:35.42 document changed: Election.sol
+18:54:35.43 Skipping solium, .soliumrc.json not found
+18:54:35.43 validating Election.sol, solium done in 0s
+18:54:35.43 validating Election.sol, solc done in 0s
+18:54:36.46 document changed: Election.sol
+18:54:36.46 Skipping solium, .soliumrc.json not found
+18:54:36.46 validating Election.sol, solium done in 0s
+18:54:36.46 validating Election.sol, solc done in 0s
+18:54:43.58 document changed: Election.sol
+18:54:43.58 Skipping solium, .soliumrc.json not found
+18:54:43.58 validating Election.sol, solium done in 0s
+18:54:43.58 validating Election.sol, solc done in 0s
+18:54:44.04 document changed: Election.sol
+18:54:44.04 Skipping solium, .soliumrc.json not found
+18:54:44.04 validating Election.sol, solium done in 0s
+18:54:44.05 validating Election.sol, solc done in 0s
+18:54:44.48 document changed: Election.sol
+18:54:44.48 Skipping solium, .soliumrc.json not found
+18:54:44.48 validating Election.sol, solium done in 0s
+18:54:44.48 validating Election.sol, solc done in 0s
+18:54:44.71 document changed: Election.sol
+18:54:44.71 Skipping solium, .soliumrc.json not found
+18:54:44.71 validating Election.sol, solium done in 0s
+18:54:44.72 validating Election.sol, solc done in 0s
+18:54:45.17 document changed: Election.sol
+18:54:45.17 Skipping solium, .soliumrc.json not found
+18:54:45.17 validating Election.sol, solium done in 0s
+18:54:45.17 validating Election.sol, solc done in 0s
+18:54:45.99 document changed: Election.sol
+18:54:45.99 Skipping solium, .soliumrc.json not found
+18:54:45.99 validating Election.sol, solium done in 0s
+18:54:45.99 validating Election.sol, solc done in 0s
+18:54:46.39 document changed: Election.sol
+18:54:46.39 Skipping solium, .soliumrc.json not found
+18:54:46.39 validating Election.sol, solium done in 0s
+18:54:46.40 validating Election.sol, solc done in 0s
+18:54:46.72 document changed: Election.sol
+18:54:46.72 Skipping solium, .soliumrc.json not found
+18:54:46.72 validating Election.sol, solium done in 0s
+18:54:46.72 validating Election.sol, solc done in 0s
+18:54:47.26 document changed: Election.sol
+18:54:47.26 Skipping solium, .soliumrc.json not found
+18:54:47.26 validating Election.sol, solium done in 0s
+18:54:47.26 validating Election.sol, solc done in 0s
+18:54:47.53 document changed: Election.sol
+18:54:47.53 Skipping solium, .soliumrc.json not found
+18:54:47.53 validating Election.sol, solium done in 0s
+18:54:47.53 validating Election.sol, solc done in 0s
+18:54:48.09 document changed: Election.sol
+18:54:48.09 Skipping solium, .soliumrc.json not found
+18:54:48.09 validating Election.sol, solium done in 0s
+18:54:48.09 validating Election.sol, solc done in 0s
+18:54:54.25 document changed: Election.sol
+18:54:54.25 Skipping solium, .soliumrc.json not found
+18:54:54.25 validating Election.sol, solium done in 0s
+18:54:54.25 validating Election.sol, solc done in 0s
+18:54:55.25 document changed: Election.sol
+18:54:55.25 Skipping solium, .soliumrc.json not found
+18:54:55.25 validating Election.sol, solium done in 0s
+18:54:55.26 validating Election.sol, solc done in 0s
+18:54:55.73 document changed: Election.sol
+18:54:55.73 Skipping solium, .soliumrc.json not found
+18:54:55.73 validating Election.sol, solium done in 0s
+18:54:55.73 validating Election.sol, solc done in 0s
+18:54:56.63 document changed: Election.sol
+18:54:56.63 Skipping solium, .soliumrc.json not found
+18:54:56.63 validating Election.sol, solium done in 0s
+18:54:56.63 validating Election.sol, solc done in 0s
+18:54:56.97 document changed: Election.sol
+18:54:56.97 Skipping solium, .soliumrc.json not found
+18:54:56.97 validating Election.sol, solium done in 0s
+18:54:56.97 validating Election.sol, solc done in 0s
+18:54:57.46 document changed: Election.sol
+18:54:57.46 Skipping solium, .soliumrc.json not found
+18:54:57.46 validating Election.sol, solium done in 0s
+18:54:57.46 validating Election.sol, solc done in 0s
+18:54:58.06 document changed: Election.sol
+18:54:58.06 Skipping solium, .soliumrc.json not found
+18:54:58.06 validating Election.sol, solium done in 0s
+18:54:58.06 validating Election.sol, solc done in 0s
+18:54:58.64 document changed: Election.sol
+18:54:58.64 Skipping solium, .soliumrc.json not found
+18:54:58.64 validating Election.sol, solium done in 0s
+18:54:58.64 validating Election.sol, solc done in 0s
+18:54:59.71 document changed: Election.sol
+18:54:59.72 Skipping solium, .soliumrc.json not found
+18:54:59.72 validating Election.sol, solium done in 0s
+18:54:59.72 validating Election.sol, solc done in 0s
+18:55:00.16 document changed: Election.sol
+18:55:00.16 Skipping solium, .soliumrc.json not found
+18:55:00.16 validating Election.sol, solium done in 0s
+18:55:00.16 validating Election.sol, solc done in 0s
+18:55:02.93 document changed: Election.sol
+18:55:02.93 Skipping solium, .soliumrc.json not found
+18:55:02.93 validating Election.sol, solium done in 0s
+18:55:02.93 validating Election.sol, solc done in 0s
+18:55:03.35 document changed: Election.sol
+18:55:03.35 Skipping solium, .soliumrc.json not found
+18:55:03.35 validating Election.sol, solium done in 0s
+18:55:03.36 validating Election.sol, solc done in 0s
+18:55:03.70 document changed: Election.sol
+18:55:03.70 Skipping solium, .soliumrc.json not found
+18:55:03.70 validating Election.sol, solium done in 0s
+18:55:03.70 validating Election.sol, solc done in 0s
+18:55:06.84 document changed: Election.sol
+18:55:06.84 Skipping solium, .soliumrc.json not found
+18:55:06.84 validating Election.sol, solium done in 0s
+18:55:06.84 validating Election.sol, solc done in 0s
+18:55:07.36 document changed: Election.sol
+18:55:07.36 Skipping solium, .soliumrc.json not found
+18:55:07.36 validating Election.sol, solium done in 0s
+18:55:07.36 validating Election.sol, solc done in 0s
+18:55:08.35 document changed: Election.sol
+18:55:08.35 Skipping solium, .soliumrc.json not found
+18:55:08.35 validating Election.sol, solium done in 0s
+18:55:08.35 validating Election.sol, solc done in 0s
+18:55:10.44 document changed: Election.sol
+18:55:10.44 Skipping solium, .soliumrc.json not found
+18:55:10.44 validating Election.sol, solium done in 0s
+18:55:10.44 validating Election.sol, solc done in 0s
+18:55:12.48 document changed: Election.sol
+18:55:12.48 Skipping solium, .soliumrc.json not found
+18:55:12.48 validating Election.sol, solium done in 0s
+18:55:12.48 validating Election.sol, solc done in 0s
+18:55:13.03 document changed: Election.sol
+18:55:13.03 Skipping solium, .soliumrc.json not found
+18:55:13.03 validating Election.sol, solium done in 0s
+18:55:13.03 validating Election.sol, solc done in 0s
+18:55:13.50 document changed: Election.sol
+18:55:13.50 Skipping solium, .soliumrc.json not found
+18:55:13.50 validating Election.sol, solium done in 0s
+18:55:13.50 validating Election.sol, solc done in 0s
+18:55:14.95 document changed: Election.sol
+18:55:14.95 Skipping solium, .soliumrc.json not found
+18:55:14.95 validating Election.sol, solium done in 0s
+18:55:14.96 validating Election.sol, solc done in 0s
+18:55:15.22 document changed: Election.sol
+18:55:15.22 Skipping solium, .soliumrc.json not found
+18:55:15.22 validating Election.sol, solium done in 0s
+18:55:15.22 validating Election.sol, solc done in 0s
+18:55:15.55 document changed: Election.sol
+18:55:15.55 Skipping solium, .soliumrc.json not found
+18:55:15.55 validating Election.sol, solium done in 0s
+18:55:15.55 validating Election.sol, solc done in 0s
+18:55:16.92 document changed: Election.sol
+18:55:16.92 Skipping solium, .soliumrc.json not found
+18:55:16.92 validating Election.sol, solium done in 0s
+18:55:16.92 validating Election.sol, solc done in 0s
+18:55:18.05 document changed: Election.sol
+18:55:18.05 Skipping solium, .soliumrc.json not found
+18:55:18.05 validating Election.sol, solium done in 0s
+18:55:18.05 validating Election.sol, solc done in 0s
+18:55:19.04 document changed: Election.sol
+18:55:19.04 Skipping solium, .soliumrc.json not found
+18:55:19.04 validating Election.sol, solium done in 0s
+18:55:19.05 validating Election.sol, solc done in 0s
+18:55:19.40 document changed: Election.sol
+18:55:19.40 Skipping solium, .soliumrc.json not found
+18:55:19.40 validating Election.sol, solium done in 0s
+18:55:19.41 validating Election.sol, solc done in 0s
+18:55:22.94 document changed: Election.sol
+18:55:22.94 Skipping solium, .soliumrc.json not found
+18:55:22.94 validating Election.sol, solium done in 0s
+18:55:22.94 validating Election.sol, solc done in 0s
+18:55:23.60 document changed: Election.sol
+18:55:23.60 Skipping solium, .soliumrc.json not found
+18:55:23.60 validating Election.sol, solium done in 0s
+18:55:23.60 validating Election.sol, solc done in 0s
+18:55:24.00 document changed: Election.sol
+18:55:24.00 Skipping solium, .soliumrc.json not found
+18:55:24.00 validating Election.sol, solium done in 0s
+18:55:24.01 validating Election.sol, solc done in 0s
+18:55:24.79 document changed: Election.sol
+18:55:24.79 Skipping solium, .soliumrc.json not found
+18:55:24.79 validating Election.sol, solium done in 0s
+18:55:24.79 validating Election.sol, solc done in 0s
+18:55:25.95 document changed: Election.sol
+18:55:25.95 Skipping solium, .soliumrc.json not found
+18:55:25.95 validating Election.sol, solium done in 0s
+18:55:25.95 validating Election.sol, solc done in 0s
+18:55:26.67 document changed: Election.sol
+18:55:26.67 Skipping solium, .soliumrc.json not found
+18:55:26.67 validating Election.sol, solium done in 0s
+18:55:26.67 validating Election.sol, solc done in 0s
+18:55:27.01 document changed: Election.sol
+18:55:27.01 Skipping solium, .soliumrc.json not found
+18:55:27.01 validating Election.sol, solium done in 0s
+18:55:27.01 validating Election.sol, solc done in 0s
+18:55:28.64 document changed: Election.sol
+18:55:28.64 Skipping solium, .soliumrc.json not found
+18:55:28.64 validating Election.sol, solium done in 0s
+18:55:28.64 validating Election.sol, solc done in 0s
+18:55:28.96 document changed: Election.sol
+18:55:28.97 Skipping solium, .soliumrc.json not found
+18:55:28.97 validating Election.sol, solium done in 0s
+18:55:28.97 validating Election.sol, solc done in 0s
+18:55:29.21 document changed: Election.sol
+18:55:29.21 Skipping solium, .soliumrc.json not found
+18:55:29.21 validating Election.sol, solium done in 0s
+18:55:29.21 validating Election.sol, solc done in 0s
+18:55:29.73 document changed: Election.sol
+18:55:29.73 Skipping solium, .soliumrc.json not found
+18:55:29.73 validating Election.sol, solium done in 0s
+18:55:29.74 validating Election.sol, solc done in 0s
+18:55:30.33 document changed: Election.sol
+18:55:30.33 Skipping solium, .soliumrc.json not found
+18:55:30.33 validating Election.sol, solium done in 0s
+18:55:30.33 validating Election.sol, solc done in 0s
+18:55:31.15 document changed: Election.sol
+18:55:31.15 Skipping solium, .soliumrc.json not found
+18:55:31.15 validating Election.sol, solium done in 0s
+18:55:31.15 validating Election.sol, solc done in 0s
+18:55:31.36 document changed: Election.sol
+18:55:31.36 Skipping solium, .soliumrc.json not found
+18:55:31.36 validating Election.sol, solium done in 0s
+18:55:31.36 validating Election.sol, solc done in 0s
+18:55:37.12 document changed: Election.sol
+18:55:37.12 Skipping solium, .soliumrc.json not found
+18:55:37.13 validating Election.sol, solium done in 0s
+18:55:37.13 validating Election.sol, solc done in 0s
+18:55:38.76 document changed: Election.sol
+18:55:38.76 Skipping solium, .soliumrc.json not found
+18:55:38.76 validating Election.sol, solium done in 0s
+18:55:38.77 validating Election.sol, solc done in 0s
+18:55:39.20 document changed: Election.sol
+18:55:39.20 Skipping solium, .soliumrc.json not found
+18:55:39.20 validating Election.sol, solium done in 0s
+18:55:39.20 validating Election.sol, solc done in 0s
+18:55:39.79 document changed: Election.sol
+18:55:39.79 Skipping solium, .soliumrc.json not found
+18:55:39.79 validating Election.sol, solium done in 0s
+18:55:39.79 validating Election.sol, solc done in 0s
+18:55:40.05 document changed: Election.sol
+18:55:40.05 Skipping solium, .soliumrc.json not found
+18:55:40.05 validating Election.sol, solium done in 0s
+18:55:40.05 validating Election.sol, solc done in 0s
+18:55:40.37 document changed: Election.sol
+18:55:40.38 Skipping solium, .soliumrc.json not found
+18:55:40.38 validating Election.sol, solium done in 0s
+18:55:40.38 validating Election.sol, solc done in 0s
+18:55:41.30 document changed: Election.sol
+18:55:41.30 Skipping solium, .soliumrc.json not found
+18:55:41.30 validating Election.sol, solium done in 0s
+18:55:41.30 validating Election.sol, solc done in 0s
+18:55:46.60 document changed: Election.sol
+18:55:46.61 Skipping solium, .soliumrc.json not found
+18:55:46.61 validating Election.sol, solium done in 0s
+18:55:46.61 validating Election.sol, solc done in 0s
+18:55:47.05 document changed: Election.sol
+18:55:47.05 Skipping solium, .soliumrc.json not found
+18:55:47.05 validating Election.sol, solium done in 0s
+18:55:47.05 validating Election.sol, solc done in 0s
+18:55:48.16 document changed: Election.sol
+18:55:48.16 Skipping solium, .soliumrc.json not found
+18:55:48.16 validating Election.sol, solium done in 0s
+18:55:48.16 validating Election.sol, solc done in 0s
+18:55:48.69 document changed: Election.sol
+18:55:48.69 Skipping solium, .soliumrc.json not found
+18:55:48.69 validating Election.sol, solium done in 0s
+18:55:48.69 validating Election.sol, solc done in 0s
+18:55:48.94 document changed: Election.sol
+18:55:48.95 Skipping solium, .soliumrc.json not found
+18:55:48.95 validating Election.sol, solium done in 0s
+18:55:48.95 validating Election.sol, solc done in 0s
+18:55:49.16 document changed: Election.sol
+18:55:49.16 Skipping solium, .soliumrc.json not found
+18:55:49.16 validating Election.sol, solium done in 0s
+18:55:49.16 validating Election.sol, solc done in 0s
+18:55:49.62 document changed: Election.sol
+18:55:49.62 Skipping solium, .soliumrc.json not found
+18:55:49.62 validating Election.sol, solium done in 0s
+18:55:49.63 validating Election.sol, solc done in 0s
+18:55:49.93 document changed: Election.sol
+18:55:49.93 Skipping solium, .soliumrc.json not found
+18:55:49.93 validating Election.sol, solium done in 0s
+18:55:49.93 validating Election.sol, solc done in 0s
+18:55:50.82 document changed: Election.sol
+18:55:50.82 Skipping solium, .soliumrc.json not found
+18:55:50.82 validating Election.sol, solium done in 0s
+18:55:50.82 validating Election.sol, solc done in 0s
+18:55:51.24 document changed: Election.sol
+18:55:51.24 Skipping solium, .soliumrc.json not found
+18:55:51.24 validating Election.sol, solium done in 0s
+18:55:51.24 validating Election.sol, solc done in 0s
+18:55:52.38 document changed: Election.sol
+18:55:52.38 Skipping solium, .soliumrc.json not found
+18:55:52.38 validating Election.sol, solium done in 0s
+18:55:52.39 validating Election.sol, solc done in 0s
+18:55:52.60 document changed: Election.sol
+18:55:52.60 Skipping solium, .soliumrc.json not found
+18:55:52.60 validating Election.sol, solium done in 0s
+18:55:52.61 validating Election.sol, solc done in 0s
+18:55:53.32 document changed: Election.sol
+18:55:53.32 Skipping solium, .soliumrc.json not found
+18:55:53.32 validating Election.sol, solium done in 0s
+18:55:53.32 validating Election.sol, solc done in 0s
+18:55:56.56 document changed: Election.sol
+18:55:56.56 Skipping solium, .soliumrc.json not found
+18:55:56.56 validating Election.sol, solium done in 0s
+18:55:56.56 validating Election.sol, solc done in 0s
+18:55:57.52 document changed: Election.sol
+18:55:57.53 Skipping solium, .soliumrc.json not found
+18:55:57.53 validating Election.sol, solium done in 0s
+18:55:57.53 validating Election.sol, solc done in 0s
+18:55:58.76 document changed: Election.sol
+18:55:58.76 Skipping solium, .soliumrc.json not found
+18:55:58.76 validating Election.sol, solium done in 0s
+18:55:58.76 validating Election.sol, solc done in 0s
+18:55:59.12 document changed: Election.sol
+18:55:59.12 Skipping solium, .soliumrc.json not found
+18:55:59.12 validating Election.sol, solium done in 0s
+18:55:59.12 validating Election.sol, solc done in 0s
+18:56:03.29 document changed: Election.sol
+18:56:03.29 Skipping solium, .soliumrc.json not found
+18:56:03.29 validating Election.sol, solium done in 0s
+18:56:03.29 validating Election.sol, solc done in 0s
+18:56:03.55 document changed: Election.sol
+18:56:03.55 Skipping solium, .soliumrc.json not found
+18:56:03.55 validating Election.sol, solium done in 0s
+18:56:03.55 validating Election.sol, solc done in 0s
+18:56:03.76 document changed: Election.sol
+18:56:03.76 Skipping solium, .soliumrc.json not found
+18:56:03.76 validating Election.sol, solium done in 0s
+18:56:03.77 validating Election.sol, solc done in 0s
+18:56:04.68 document changed: Election.sol
+18:56:04.68 Skipping solium, .soliumrc.json not found
+18:56:04.68 validating Election.sol, solium done in 0s
+18:56:04.68 validating Election.sol, solc done in 0s
+18:56:05.18 document changed: Election.sol
+18:56:05.18 Skipping solium, .soliumrc.json not found
+18:56:05.18 validating Election.sol, solium done in 0s
+18:56:05.19 validating Election.sol, solc done in 0s
+18:56:05.55 document changed: Election.sol
+18:56:05.55 Skipping solium, .soliumrc.json not found
+18:56:05.55 validating Election.sol, solium done in 0s
+18:56:05.55 validating Election.sol, solc done in 0s
+18:56:09.79 document changed: Election.sol
+18:56:09.79 Skipping solium, .soliumrc.json not found
+18:56:09.79 validating Election.sol, solium done in 0s
+18:56:09.79 validating Election.sol, solc done in 0s
+18:56:10.09 document changed: Election.sol
+18:56:10.09 Skipping solium, .soliumrc.json not found
+18:56:10.09 validating Election.sol, solium done in 0s
+18:56:10.09 validating Election.sol, solc done in 0s
+18:56:10.64 document changed: Election.sol
+18:56:10.64 Skipping solium, .soliumrc.json not found
+18:56:10.64 validating Election.sol, solium done in 0s
+18:56:10.64 validating Election.sol, solc done in 0s
+18:56:11.38 document changed: Election.sol
+18:56:11.38 Skipping solium, .soliumrc.json not found
+18:56:11.38 validating Election.sol, solium done in 0s
+18:56:11.38 validating Election.sol, solc done in 0s
+18:56:11.38 document changed: Election.sol
+18:56:11.38 Skipping solium, .soliumrc.json not found
+18:56:11.38 validating Election.sol, solium done in 0s
+18:56:11.38 validating Election.sol, solc done in 0s
+18:56:11.38 document saved: Election.sol
+18:56:11.38 Skipping solium, .soliumrc.json not found
+18:56:11.38 validating Election.sol, solium done in 0s
+18:56:11.38 validating Election.sol, solc done in 0s
+18:56:11.55 document changed: Election.sol
+18:56:11.55 Skipping solium, .soliumrc.json not found
+18:56:11.55 validating Election.sol, solium done in 0s
+18:56:11.55 validating Election.sol, solc done in 0s
+18:56:11.55 document saved: Election.sol
+18:56:11.56 Skipping solium, .soliumrc.json not found
+18:56:11.56 validating Election.sol, solium done in 0s
+18:56:11.56 validating Election.sol, solc done in 0s
+18:56:11.74 document changed: Election.sol
+18:56:11.74 Skipping solium, .soliumrc.json not found
+18:56:11.74 validating Election.sol, solium done in 0s
+18:56:11.74 validating Election.sol, solc done in 0s
+18:56:11.74 document saved: Election.sol
+18:56:11.74 Skipping solium, .soliumrc.json not found
+18:56:11.74 validating Election.sol, solium done in 0s
+18:56:11.75 validating Election.sol, solc done in 0s
+18:56:16.81 document changed: Election.sol
+18:56:16.81 Skipping solium, .soliumrc.json not found
+18:56:16.81 validating Election.sol, solium done in 0s
+18:56:16.81 validating Election.sol, solc done in 0s
+18:56:17.61 document changed: Election.sol
+18:56:17.61 Skipping solium, .soliumrc.json not found
+18:56:17.61 validating Election.sol, solium done in 0s
+18:56:17.61 validating Election.sol, solc done in 0s
+18:56:18.10 document changed: Election.sol
+18:56:18.10 Skipping solium, .soliumrc.json not found
+18:56:18.10 validating Election.sol, solium done in 0s
+18:56:18.10 validating Election.sol, solc done in 0s
+18:56:18.80 document changed: Election.sol
+18:56:18.80 Skipping solium, .soliumrc.json not found
+18:56:18.80 validating Election.sol, solium done in 0s
+18:56:18.80 validating Election.sol, solc done in 0s
+18:56:29.61 document changed: Election.sol
+18:56:29.62 Skipping solium, .soliumrc.json not found
+18:56:29.62 validating Election.sol, solium done in 0s
+18:56:29.62 validating Election.sol, solc done in 0s
+18:56:30.25 document changed: Election.sol
+18:56:30.25 Skipping solium, .soliumrc.json not found
+18:56:30.25 validating Election.sol, solium done in 0s
+18:56:30.25 validating Election.sol, solc done in 0s
+18:56:37.20 document changed: Election.sol
+18:56:37.20 Skipping solium, .soliumrc.json not found
+18:56:37.20 validating Election.sol, solium done in 0s
+18:56:37.20 validating Election.sol, solc done in 0s
+18:56:37.77 document changed: Election.sol
+18:56:37.77 Skipping solium, .soliumrc.json not found
+18:56:37.77 validating Election.sol, solium done in 0s
+18:56:37.77 validating Election.sol, solc done in 0s
+18:56:40.02 document changed: Election.sol
+18:56:40.03 Skipping solium, .soliumrc.json not found
+18:56:40.03 validating Election.sol, solium done in 0s
+18:56:40.03 validating Election.sol, solc done in 0s
+18:56:40.60 document changed: Election.sol
+18:56:40.60 Skipping solium, .soliumrc.json not found
+18:56:40.60 validating Election.sol, solium done in 0s
+18:56:40.60 validating Election.sol, solc done in 0s
+18:56:40.67 document changed: Election.sol
+18:56:40.67 Skipping solium, .soliumrc.json not found
+18:56:40.67 validating Election.sol, solium done in 0s
+18:56:40.67 validating Election.sol, solc done in 0s
+18:56:40.67 document saved: Election.sol
+18:56:40.67 Skipping solium, .soliumrc.json not found
+18:56:40.67 validating Election.sol, solium done in 0s
+18:56:40.67 validating Election.sol, solc done in 0s
+18:56:40.87 document changed: Election.sol
+18:56:40.87 Skipping solium, .soliumrc.json not found
+18:56:40.87 validating Election.sol, solium done in 0s
+18:56:40.87 validating Election.sol, solc done in 0s
+18:56:40.87 document saved: Election.sol
+18:56:40.87 Skipping solium, .soliumrc.json not found
+18:56:40.87 validating Election.sol, solium done in 0s
+18:56:40.87 validating Election.sol, solc done in 0s
+18:56:41.07 document changed: Election.sol
+18:56:41.08 Skipping solium, .soliumrc.json not found
+18:56:41.08 validating Election.sol, solium done in 0s
+18:56:41.08 validating Election.sol, solc done in 0s
+18:56:41.08 document saved: Election.sol
+18:56:41.08 Skipping solium, .soliumrc.json not found
+18:56:41.08 validating Election.sol, solium done in 0s
+18:56:41.08 validating Election.sol, solc done in 0s
+18:56:55.08 document changed: Election.sol
+18:56:55.08 Skipping solium, .soliumrc.json not found
+18:56:55.08 validating Election.sol, solium done in 0s
+18:56:55.08 validating Election.sol, solc done in 0s
+18:56:55.40 document changed: Election.sol
+18:56:55.40 Skipping solium, .soliumrc.json not found
+18:56:55.40 validating Election.sol, solium done in 0s
+18:56:55.40 validating Election.sol, solc done in 0s
+18:56:55.91 document changed: Election.sol
+18:56:55.91 Skipping solium, .soliumrc.json not found
+18:56:55.91 validating Election.sol, solium done in 0s
+18:56:55.91 validating Election.sol, solc done in 0s
+18:56:55.91 document saved: Election.sol
+18:56:55.91 Skipping solium, .soliumrc.json not found
+18:56:55.91 validating Election.sol, solium done in 0s
+18:56:55.91 validating Election.sol, solc done in 0s
+18:56:56.14 document changed: Election.sol
+18:56:56.14 Skipping solium, .soliumrc.json not found
+18:56:56.14 validating Election.sol, solium done in 0s
+18:56:56.14 validating Election.sol, solc done in 0s
+18:56:56.17 document saved: Election.sol
+18:56:56.17 Skipping solium, .soliumrc.json not found
+18:56:56.17 validating Election.sol, solium done in 0s
+18:56:56.17 validating Election.sol, solc done in 0s
+18:56:56.33 document changed: Election.sol
+18:56:56.33 Skipping solium, .soliumrc.json not found
+18:56:56.33 validating Election.sol, solium done in 0s
+18:56:56.33 validating Election.sol, solc done in 0s
+18:56:56.33 document saved: Election.sol
+18:56:56.34 Skipping solium, .soliumrc.json not found
+18:56:56.34 validating Election.sol, solium done in 0s
+18:56:56.34 validating Election.sol, solc done in 0s
+19:01:38.69 document changed: Election.sol
+19:01:38.69 Skipping solium, .soliumrc.json not found
+19:01:38.69 validating Election.sol, solium done in 0s
+19:01:38.69 validating Election.sol, solc done in 0s
+19:01:38.79 document changed: Election.sol
+19:01:38.80 Skipping solium, .soliumrc.json not found
+19:01:38.80 validating Election.sol, solium done in 0s
+19:01:38.80 validating Election.sol, solc done in 0s
+19:01:38.80 document saved: Election.sol
+19:01:38.80 Skipping solium, .soliumrc.json not found
+19:01:38.80 validating Election.sol, solium done in 0s
+19:01:38.80 validating Election.sol, solc done in 0s
+19:01:38.99 document changed: Election.sol
+19:01:38.99 Skipping solium, .soliumrc.json not found
+19:01:38.99 validating Election.sol, solium done in 0s
+19:01:38.99 validating Election.sol, solc done in 0s
+19:01:38.99 document saved: Election.sol
+19:01:38.99 Skipping solium, .soliumrc.json not found
+19:01:38.99 validating Election.sol, solium done in 0s
+19:01:38.99 validating Election.sol, solc done in 0s
+19:01:39.15 document changed: Election.sol
+19:01:39.15 Skipping solium, .soliumrc.json not found
+19:01:39.15 validating Election.sol, solium done in 0s
+19:01:39.15 validating Election.sol, solc done in 0s
+19:01:39.16 document saved: Election.sol
+19:01:39.16 Skipping solium, .soliumrc.json not found
+19:01:39.16 validating Election.sol, solium done in 0s
+19:01:39.16 validating Election.sol, solc done in 0s
+19:01:40.12 document changed: Election.sol
+19:01:40.12 Skipping solium, .soliumrc.json not found
+19:01:40.12 validating Election.sol, solium done in 0s
+19:01:40.12 validating Election.sol, solc done in 0s
+19:01:41.78 document changed: Election.sol
+19:01:41.78 Skipping solium, .soliumrc.json not found
+19:01:41.78 validating Election.sol, solium done in 0s
+19:01:41.78 validating Election.sol, solc done in 0s
+19:01:42.49 document changed: Election.sol
+19:01:42.49 Skipping solium, .soliumrc.json not found
+19:01:42.49 validating Election.sol, solium done in 0s
+19:01:42.49 validating Election.sol, solc done in 0s
+19:01:42.49 document saved: Election.sol
+19:01:42.49 Skipping solium, .soliumrc.json not found
+19:01:42.49 validating Election.sol, solium done in 0s
+19:01:42.49 validating Election.sol, solc done in 0s
+19:01:42.69 document changed: Election.sol
+19:01:42.69 Skipping solium, .soliumrc.json not found
+19:01:42.69 validating Election.sol, solium done in 0s
+19:01:42.69 validating Election.sol, solc done in 0s
+19:01:42.69 document saved: Election.sol
+19:01:42.69 Skipping solium, .soliumrc.json not found
+19:01:42.69 validating Election.sol, solium done in 0s
+19:01:42.69 validating Election.sol, solc done in 0s
+19:01:42.85 document changed: Election.sol
+19:01:42.85 Skipping solium, .soliumrc.json not found
+19:01:42.85 validating Election.sol, solium done in 0s
+19:01:42.85 validating Election.sol, solc done in 0s
+19:01:42.85 document saved: Election.sol
+19:01:42.85 Skipping solium, .soliumrc.json not found
+19:01:42.85 validating Election.sol, solium done in 0s
+19:01:42.85 validating Election.sol, solc done in 0s
+19:01:44.39 document changed: Election.sol
+19:01:44.39 Skipping solium, .soliumrc.json not found
+19:01:44.39 validating Election.sol, solium done in 0s
+19:01:44.39 validating Election.sol, solc done in 0s
+19:01:46.57 document changed: Election.sol
+19:01:46.58 Skipping solium, .soliumrc.json not found
+19:01:46.58 validating Election.sol, solium done in 0s
+19:01:46.58 validating Election.sol, solc done in 0s
+19:01:47.08 document changed: Election.sol
+19:01:47.08 Skipping solium, .soliumrc.json not found
+19:01:47.08 validating Election.sol, solium done in 0s
+19:01:47.08 validating Election.sol, solc done in 0s
+19:01:47.08 document saved: Election.sol
+19:01:47.09 Skipping solium, .soliumrc.json not found
+19:01:47.09 validating Election.sol, solium done in 0s
+19:01:47.09 validating Election.sol, solc done in 0s
+19:01:47.25 document changed: Election.sol
+19:01:47.26 Skipping solium, .soliumrc.json not found
+19:01:47.26 validating Election.sol, solium done in 0s
+19:01:47.26 validating Election.sol, solc done in 0s
+19:01:47.26 document saved: Election.sol
+19:01:47.26 Skipping solium, .soliumrc.json not found
+19:01:47.26 validating Election.sol, solium done in 0s
+19:01:47.26 validating Election.sol, solc done in 0s
+19:02:17.41 document changed: Election.sol
+19:02:17.41 Skipping solium, .soliumrc.json not found
+19:02:17.41 validating Election.sol, solium done in 0s
+19:02:17.41 validating Election.sol, solc done in 0s
+19:02:19.85 document changed: Election.sol
+19:02:19.85 Skipping solium, .soliumrc.json not found
+19:02:19.85 validating Election.sol, solium done in 0s
+19:02:19.86 validating Election.sol, solc done in 0s
+19:02:20.17 document changed: Election.sol
+19:02:20.17 Skipping solium, .soliumrc.json not found
+19:02:20.17 validating Election.sol, solium done in 0s
+19:02:20.17 validating Election.sol, solc done in 0s
+19:02:21.75 document changed: Election.sol
+19:02:21.75 Skipping solium, .soliumrc.json not found
+19:02:21.75 validating Election.sol, solium done in 0s
+19:02:21.75 validating Election.sol, solc done in 0s
+19:02:22.93 document changed: Election.sol
+19:02:22.93 Skipping solium, .soliumrc.json not found
+19:02:22.93 validating Election.sol, solium done in 0s
+19:02:22.94 validating Election.sol, solc done in 0s
+19:02:23.66 document changed: Election.sol
+19:02:23.66 Skipping solium, .soliumrc.json not found
+19:02:23.66 validating Election.sol, solium done in 0s
+19:02:23.67 validating Election.sol, solc done in 0s
+19:02:24.00 document changed: Election.sol
+19:02:24.01 Skipping solium, .soliumrc.json not found
+19:02:24.01 validating Election.sol, solium done in 0s
+19:02:24.01 validating Election.sol, solc done in 0s
+19:02:24.93 document changed: Election.sol
+19:02:24.93 Skipping solium, .soliumrc.json not found
+19:02:24.93 validating Election.sol, solium done in 0s
+19:02:24.93 validating Election.sol, solc done in 0s
+19:02:28.15 document changed: Election.sol
+19:02:28.15 Skipping solium, .soliumrc.json not found
+19:02:28.15 validating Election.sol, solium done in 0s
+19:02:28.15 validating Election.sol, solc done in 0s
+19:02:28.27 document changed: Election.sol
+19:02:28.27 Skipping solium, .soliumrc.json not found
+19:02:28.27 validating Election.sol, solium done in 0s
+19:02:28.27 validating Election.sol, solc done in 0s
+19:02:28.27 document saved: Election.sol
+19:02:28.27 Skipping solium, .soliumrc.json not found
+19:02:28.27 validating Election.sol, solium done in 0s
+19:02:28.28 validating Election.sol, solc done in 0s
+19:02:28.51 document changed: Election.sol
+19:02:28.51 Skipping solium, .soliumrc.json not found
+19:02:28.51 validating Election.sol, solium done in 0s
+19:02:28.51 validating Election.sol, solc done in 0s
+19:02:28.51 document saved: Election.sol
+19:02:28.51 Skipping solium, .soliumrc.json not found
+19:02:28.51 validating Election.sol, solium done in 0s
+19:02:28.51 validating Election.sol, solc done in 0s
+19:02:28.65 document changed: Election.sol
+19:02:28.65 Skipping solium, .soliumrc.json not found
+19:02:28.65 validating Election.sol, solium done in 0s
+19:02:28.65 validating Election.sol, solc done in 0s
+19:02:28.65 document saved: Election.sol
+19:02:28.65 Skipping solium, .soliumrc.json not found
+19:02:28.65 validating Election.sol, solium done in 0s
+19:02:28.65 validating Election.sol, solc done in 0s
+19:02:29.85 document changed: Election.sol
+19:02:29.85 Skipping solium, .soliumrc.json not found
+19:02:29.85 validating Election.sol, solium done in 0s
+19:02:29.86 validating Election.sol, solc done in 0s
+19:02:30.62 document changed: Election.sol
+19:02:30.62 Skipping solium, .soliumrc.json not found
+19:02:30.62 validating Election.sol, solium done in 0s
+19:02:30.62 validating Election.sol, solc done in 0s
+19:02:30.62 document saved: Election.sol
+19:02:30.62 Skipping solium, .soliumrc.json not found
+19:02:30.62 validating Election.sol, solium done in 0s
+19:02:30.62 validating Election.sol, solc done in 0s
+19:02:30.83 document changed: Election.sol
+19:02:30.83 Skipping solium, .soliumrc.json not found
+19:02:30.83 validating Election.sol, solium done in 0s
+19:02:30.84 validating Election.sol, solc done in 0s
+19:02:30.84 document saved: Election.sol
+19:02:30.84 Skipping solium, .soliumrc.json not found
+19:02:30.84 validating Election.sol, solium done in 0s
+19:02:30.84 validating Election.sol, solc done in 0s
+19:03:01.98 document changed: Election.sol
+19:03:01.98 Skipping solium, .soliumrc.json not found
+19:03:01.98 validating Election.sol, solium done in 0s
+19:03:01.98 validating Election.sol, solc done in 0s
+19:03:03.19 document changed: Election.sol
+19:03:03.19 Skipping solium, .soliumrc.json not found
+19:03:03.19 validating Election.sol, solium done in 0s
+19:03:03.19 validating Election.sol, solc done in 0s
+19:03:14.62 document changed: Election.sol
+19:03:14.62 Skipping solium, .soliumrc.json not found
+19:03:14.62 validating Election.sol, solium done in 0s
+19:03:14.62 validating Election.sol, solc done in 0s
+19:03:15.21 document changed: Election.sol
+19:03:15.21 Skipping solium, .soliumrc.json not found
+19:03:15.21 validating Election.sol, solium done in 0s
+19:03:15.21 validating Election.sol, solc done in 0s
+19:03:15.42 document changed: Election.sol
+19:03:15.42 Skipping solium, .soliumrc.json not found
+19:03:15.42 validating Election.sol, solium done in 0s
+19:03:15.42 validating Election.sol, solc done in 0s
+19:03:16.15 document changed: Election.sol
+19:03:16.15 Skipping solium, .soliumrc.json not found
+19:03:16.15 validating Election.sol, solium done in 0s
+19:03:16.15 validating Election.sol, solc done in 0s
+19:03:17.07 document changed: Election.sol
+19:03:17.07 Skipping solium, .soliumrc.json not found
+19:03:17.07 validating Election.sol, solium done in 0s
+19:03:17.07 validating Election.sol, solc done in 0s
+19:03:17.66 document changed: Election.sol
+19:03:17.66 Skipping solium, .soliumrc.json not found
+19:03:17.66 validating Election.sol, solium done in 0s
+19:03:17.66 validating Election.sol, solc done in 0s
+19:03:17.90 document changed: Election.sol
+19:03:17.90 Skipping solium, .soliumrc.json not found
+19:03:17.90 validating Election.sol, solium done in 0s
+19:03:17.90 validating Election.sol, solc done in 0s
+19:03:19.12 document changed: Election.sol
+19:03:19.12 Skipping solium, .soliumrc.json not found
+19:03:19.12 validating Election.sol, solium done in 0s
+19:03:19.12 validating Election.sol, solc done in 0s
+19:03:19.64 document changed: Election.sol
+19:03:19.64 Skipping solium, .soliumrc.json not found
+19:03:19.64 validating Election.sol, solium done in 0s
+19:03:19.65 validating Election.sol, solc done in 0s
+19:03:20.43 document changed: Election.sol
+19:03:20.43 Skipping solium, .soliumrc.json not found
+19:03:20.43 validating Election.sol, solium done in 0s
+19:03:20.43 validating Election.sol, solc done in 0s
+19:03:20.65 document changed: Election.sol
+19:03:20.65 Skipping solium, .soliumrc.json not found
+19:03:20.65 validating Election.sol, solium done in 0s
+19:03:20.65 validating Election.sol, solc done in 0s
+19:03:21.04 document changed: Election.sol
+19:03:21.04 Skipping solium, .soliumrc.json not found
+19:03:21.04 validating Election.sol, solium done in 0s
+19:03:21.04 validating Election.sol, solc done in 0s
+19:03:21.52 document changed: Election.sol
+19:03:21.52 Skipping solium, .soliumrc.json not found
+19:03:21.52 validating Election.sol, solium done in 0s
+19:03:21.52 validating Election.sol, solc done in 0s
+19:03:22.70 document changed: Election.sol
+19:03:22.70 Skipping solium, .soliumrc.json not found
+19:03:22.70 validating Election.sol, solium done in 0s
+19:03:22.71 validating Election.sol, solc done in 0s
+19:03:24.20 document changed: Election.sol
+19:03:24.20 Skipping solium, .soliumrc.json not found
+19:03:24.20 validating Election.sol, solium done in 0s
+19:03:24.20 validating Election.sol, solc done in 0s
+19:03:24.66 document changed: Election.sol
+19:03:24.66 Skipping solium, .soliumrc.json not found
+19:03:24.66 validating Election.sol, solium done in 0s
+19:03:24.66 validating Election.sol, solc done in 0s
+19:03:25.42 document changed: Election.sol
+19:03:25.42 Skipping solium, .soliumrc.json not found
+19:03:25.42 validating Election.sol, solium done in 0s
+19:03:25.42 validating Election.sol, solc done in 0s
+19:03:25.92 document changed: Election.sol
+19:03:25.92 Skipping solium, .soliumrc.json not found
+19:03:25.92 validating Election.sol, solium done in 0s
+19:03:25.92 validating Election.sol, solc done in 0s
+19:03:26.29 document changed: Election.sol
+19:03:26.29 Skipping solium, .soliumrc.json not found
+19:03:26.29 validating Election.sol, solium done in 0s
+19:03:26.29 validating Election.sol, solc done in 0s
+19:03:26.57 document changed: Election.sol
+19:03:26.57 Skipping solium, .soliumrc.json not found
+19:03:26.57 validating Election.sol, solium done in 0s
+19:03:26.57 validating Election.sol, solc done in 0s
+19:03:26.78 document changed: Election.sol
+19:03:26.78 Skipping solium, .soliumrc.json not found
+19:03:26.78 validating Election.sol, solium done in 0s
+19:03:26.78 validating Election.sol, solc done in 0s
+19:03:27.00 document changed: Election.sol
+19:03:27.01 Skipping solium, .soliumrc.json not found
+19:03:27.01 validating Election.sol, solium done in 0s
+19:03:27.01 validating Election.sol, solc done in 0s
+19:03:27.49 document changed: Election.sol
+19:03:27.49 Skipping solium, .soliumrc.json not found
+19:03:27.49 validating Election.sol, solium done in 0s
+19:03:27.49 validating Election.sol, solc done in 0s
+19:03:27.69 document changed: Election.sol
+19:03:27.69 Skipping solium, .soliumrc.json not found
+19:03:27.69 validating Election.sol, solium done in 0s
+19:03:27.69 validating Election.sol, solc done in 0s
+19:03:28.73 document changed: Election.sol
+19:03:28.73 Skipping solium, .soliumrc.json not found
+19:03:28.73 validating Election.sol, solium done in 0s
+19:03:28.73 validating Election.sol, solc done in 0s
+19:03:30.01 document changed: Election.sol
+19:03:30.02 Skipping solium, .soliumrc.json not found
+19:03:30.02 validating Election.sol, solium done in 0s
+19:03:30.02 validating Election.sol, solc done in 0s
+19:03:30.85 document changed: Election.sol
+19:03:30.85 Skipping solium, .soliumrc.json not found
+19:03:30.85 validating Election.sol, solium done in 0s
+19:03:30.85 validating Election.sol, solc done in 0s
+19:03:30.85 document saved: Election.sol
+19:03:30.85 Skipping solium, .soliumrc.json not found
+19:03:30.85 validating Election.sol, solium done in 0s
+19:03:30.85 validating Election.sol, solc done in 0s
+19:03:31.03 document changed: Election.sol
+19:03:31.03 Skipping solium, .soliumrc.json not found
+19:03:31.03 validating Election.sol, solium done in 0s
+19:03:31.03 validating Election.sol, solc done in 0s
+19:03:31.03 document saved: Election.sol
+19:03:31.04 Skipping solium, .soliumrc.json not found
+19:03:31.04 validating Election.sol, solium done in 0s
+19:03:31.04 validating Election.sol, solc done in 0s
+19:03:34.24 document changed: Election.sol
+19:03:34.24 Skipping solium, .soliumrc.json not found
+19:03:34.24 validating Election.sol, solium done in 0s
+19:03:34.24 validating Election.sol, solc done in 0s
+19:03:35.24 document changed: Election.sol
+19:03:35.24 Skipping solium, .soliumrc.json not found
+19:03:35.25 validating Election.sol, solium done in 0s
+19:03:35.25 validating Election.sol, solc done in 0s
+19:03:40.15 document changed: Election.sol
+19:03:40.15 Skipping solium, .soliumrc.json not found
+19:03:40.15 validating Election.sol, solium done in 0s
+19:03:40.15 validating Election.sol, solc done in 0s
+19:03:41.07 document changed: Election.sol
+19:03:41.07 Skipping solium, .soliumrc.json not found
+19:03:41.07 validating Election.sol, solium done in 0s
+19:03:41.08 validating Election.sol, solc done in 0s
+19:03:42.01 document changed: Election.sol
+19:03:42.01 Skipping solium, .soliumrc.json not found
+19:03:42.01 validating Election.sol, solium done in 0s
+19:03:42.01 validating Election.sol, solc done in 0s
+19:03:42.30 document changed: Election.sol
+19:03:42.30 Skipping solium, .soliumrc.json not found
+19:03:42.30 validating Election.sol, solium done in 0s
+19:03:42.30 validating Election.sol, solc done in 0s
+19:03:43.03 document changed: Election.sol
+19:03:43.03 Skipping solium, .soliumrc.json not found
+19:03:43.03 validating Election.sol, solium done in 0s
+19:03:43.03 validating Election.sol, solc done in 0s
+19:03:43.56 document changed: Election.sol
+19:03:43.56 Skipping solium, .soliumrc.json not found
+19:03:43.56 validating Election.sol, solium done in 0s
+19:03:43.56 validating Election.sol, solc done in 0s
+19:03:43.77 document changed: Election.sol
+19:03:43.77 Skipping solium, .soliumrc.json not found
+19:03:43.77 validating Election.sol, solium done in 0s
+19:03:43.77 validating Election.sol, solc done in 0s
+19:03:44.18 document changed: Election.sol
+19:03:44.18 Skipping solium, .soliumrc.json not found
+19:03:44.18 validating Election.sol, solium done in 0s
+19:03:44.18 validating Election.sol, solc done in 0s
+19:03:45.02 document changed: Election.sol
+19:03:45.02 Skipping solium, .soliumrc.json not found
+19:03:45.02 validating Election.sol, solium done in 0s
+19:03:45.02 validating Election.sol, solc done in 0s
+19:03:45.22 document changed: Election.sol
+19:03:45.23 Skipping solium, .soliumrc.json not found
+19:03:45.23 validating Election.sol, solium done in 0s
+19:03:45.23 validating Election.sol, solc done in 0s
+19:03:45.76 document changed: Election.sol
+19:03:45.76 Skipping solium, .soliumrc.json not found
+19:03:45.76 validating Election.sol, solium done in 0s
+19:03:45.76 validating Election.sol, solc done in 0s
+19:03:45.97 document changed: Election.sol
+19:03:45.98 Skipping solium, .soliumrc.json not found
+19:03:45.98 validating Election.sol, solium done in 0s
+19:03:45.98 validating Election.sol, solc done in 0s
+19:03:47.23 document changed: Election.sol
+19:03:47.23 Skipping solium, .soliumrc.json not found
+19:03:47.23 validating Election.sol, solium done in 0s
+19:03:47.23 validating Election.sol, solc done in 0s
+19:03:47.82 document changed: Election.sol
+19:03:47.82 Skipping solium, .soliumrc.json not found
+19:03:47.82 validating Election.sol, solium done in 0s
+19:03:47.83 validating Election.sol, solc done in 0s
+19:03:48.18 document changed: Election.sol
+19:03:48.18 Skipping solium, .soliumrc.json not found
+19:03:48.18 validating Election.sol, solium done in 0s
+19:03:48.18 validating Election.sol, solc done in 0s
+19:03:48.77 document changed: Election.sol
+19:03:48.77 Skipping solium, .soliumrc.json not found
+19:03:48.77 validating Election.sol, solium done in 0s
+19:03:48.78 validating Election.sol, solc done in 0s
+19:03:49.93 document changed: Election.sol
+19:03:49.94 Skipping solium, .soliumrc.json not found
+19:03:49.94 validating Election.sol, solium done in 0s
+19:03:49.94 validating Election.sol, solc done in 0s
+19:03:50.14 document changed: Election.sol
+19:03:50.14 Skipping solium, .soliumrc.json not found
+19:03:50.14 validating Election.sol, solium done in 0s
+19:03:50.14 validating Election.sol, solc done in 0s
+19:03:50.64 document changed: Election.sol
+19:03:50.64 Skipping solium, .soliumrc.json not found
+19:03:50.64 validating Election.sol, solium done in 0s
+19:03:50.64 validating Election.sol, solc done in 0s
+19:03:51.46 document changed: Election.sol
+19:03:51.46 Skipping solium, .soliumrc.json not found
+19:03:51.46 validating Election.sol, solium done in 0s
+19:03:51.46 validating Election.sol, solc done in 0s
+19:03:52.61 document changed: Election.sol
+19:03:52.61 Skipping solium, .soliumrc.json not found
+19:03:52.61 validating Election.sol, solium done in 0s
+19:03:52.61 validating Election.sol, solc done in 0s
+19:03:53.43 document changed: Election.sol
+19:03:53.43 Skipping solium, .soliumrc.json not found
+19:03:53.43 validating Election.sol, solium done in 0s
+19:03:53.43 validating Election.sol, solc done in 0s
+19:03:53.84 document changed: Election.sol
+19:03:53.84 Skipping solium, .soliumrc.json not found
+19:03:53.84 validating Election.sol, solium done in 0s
+19:03:53.84 validating Election.sol, solc done in 0s
+19:03:53.84 document saved: Election.sol
+19:03:53.85 Skipping solium, .soliumrc.json not found
+19:03:53.85 validating Election.sol, solium done in 0s
+19:03:53.85 validating Election.sol, solc done in 0s
+19:03:54.02 document changed: Election.sol
+19:03:54.02 Skipping solium, .soliumrc.json not found
+19:03:54.02 validating Election.sol, solium done in 0s
+19:03:54.02 validating Election.sol, solc done in 0s
+19:03:54.02 document saved: Election.sol
+19:03:54.02 Skipping solium, .soliumrc.json not found
+19:03:54.02 validating Election.sol, solium done in 0s
+19:03:54.02 validating Election.sol, solc done in 0s
+19:03:59.67 document changed: Election.sol
+19:03:59.67 Skipping solium, .soliumrc.json not found
+19:03:59.67 validating Election.sol, solium done in 0s
+19:03:59.67 validating Election.sol, solc done in 0s
+19:04:09.65 document changed: Election.sol
+19:04:09.66 Skipping solium, .soliumrc.json not found
+19:04:09.66 validating Election.sol, solium done in 0s
+19:04:09.66 validating Election.sol, solc done in 0s
+19:04:14.35 document changed: Election.sol
+19:04:14.35 Skipping solium, .soliumrc.json not found
+19:04:14.35 validating Election.sol, solium done in 0s
+19:04:14.35 validating Election.sol, solc done in 0s
+19:04:14.75 document changed: Election.sol
+19:04:14.76 Skipping solium, .soliumrc.json not found
+19:04:14.76 validating Election.sol, solium done in 0s
+19:04:14.76 validating Election.sol, solc done in 0s
+20:43:40.52 document changed: Election.sol
+20:43:40.53 Skipping solium, .soliumrc.json not found
+20:43:40.53 validating Election.sol, solium done in 0s
+20:43:40.53 validating Election.sol, solc done in 0s
+20:58:05.01 document changed: Election.sol
+20:58:05.02 Skipping solium, .soliumrc.json not found
+20:58:05.02 validating Election.sol, solium done in 0s
+20:58:05.02 validating Election.sol, solc done in 0s
+20:58:05.02 document saved: Election.sol
+20:58:05.03 Skipping solium, .soliumrc.json not found
+20:58:05.03 validating Election.sol, solium done in 0s
+20:58:05.03 validating Election.sol, solc done in 0s
+20:58:05.21 document changed: Election.sol
+20:58:05.21 Skipping solium, .soliumrc.json not found
+20:58:05.21 validating Election.sol, solium done in 0s
+20:58:05.21 validating Election.sol, solc done in 0s
+20:58:05.21 document saved: Election.sol
+20:58:05.21 Skipping solium, .soliumrc.json not found
+20:58:05.21 validating Election.sol, solium done in 0s
+20:58:05.22 validating Election.sol, solc done in 0s
+20:58:07.78 document changed: Election.sol
+20:58:07.78 Skipping solium, .soliumrc.json not found
+20:58:07.78 validating Election.sol, solium done in 0s
+20:58:07.78 validating Election.sol, solc done in 0s
+20:58:09.61 document changed: Election.sol
+20:58:09.61 Skipping solium, .soliumrc.json not found
+20:58:09.61 validating Election.sol, solium done in 0s
+20:58:09.61 validating Election.sol, solc done in 0s
+20:58:10.51 document changed: Election.sol
+20:58:10.51 Skipping solium, .soliumrc.json not found
+20:58:10.51 validating Election.sol, solium done in 0s
+20:58:10.51 validating Election.sol, solc done in 0s
+20:58:11.25 document changed: Election.sol
+20:58:11.25 Skipping solium, .soliumrc.json not found
+20:58:11.25 validating Election.sol, solium done in 0s
+20:58:11.25 validating Election.sol, solc done in 0s
+20:58:11.99 document changed: Election.sol
+20:58:11.99 Skipping solium, .soliumrc.json not found
+20:58:11.99 validating Election.sol, solium done in 0s
+20:58:11.99 validating Election.sol, solc done in 0s
+20:58:11.99 document saved: Election.sol
+20:58:12.00 Skipping solium, .soliumrc.json not found
+20:58:12.00 validating Election.sol, solium done in 0s
+20:58:12.00 validating Election.sol, solc done in 0s
+20:58:12.31 document changed: Election.sol
+20:58:12.31 Skipping solium, .soliumrc.json not found
+20:58:12.31 validating Election.sol, solium done in 0s
+20:58:12.32 validating Election.sol, solc done in 0s
+20:58:12.32 document saved: Election.sol
+20:58:12.32 Skipping solium, .soliumrc.json not found
+20:58:12.32 validating Election.sol, solium done in 0s
+20:58:12.32 validating Election.sol, solc done in 0s
+20:58:12.59 document changed: Election.sol
+20:58:12.59 Skipping solium, .soliumrc.json not found
+20:58:12.59 validating Election.sol, solium done in 0s
+20:58:12.60 validating Election.sol, solc done in 0s
+20:58:12.60 document saved: Election.sol
+20:58:12.60 Skipping solium, .soliumrc.json not found
+20:58:12.60 validating Election.sol, solium done in 0s
+20:58:12.60 validating Election.sol, solc done in 0s
+22:24:27.26 document changed: Election.sol
+22:24:27.26 Skipping solium, .soliumrc.json not found
+22:24:27.26 validating Election.sol, solium done in 0s
+22:24:27.27 validating Election.sol, solc done in 0s
+22:24:27.61 document changed: Election.sol
+22:24:27.61 Skipping solium, .soliumrc.json not found
+22:24:27.61 validating Election.sol, solium done in 0s
+22:24:27.61 validating Election.sol, solc done in 0s
+22:24:28.08 document changed: Election.sol
+22:24:28.08 Skipping solium, .soliumrc.json not found
+22:24:28.08 validating Election.sol, solium done in 0s
+22:24:28.08 validating Election.sol, solc done in 0s
+22:24:28.70 document changed: Election.sol
+22:24:28.70 Skipping solium, .soliumrc.json not found
+22:24:28.70 validating Election.sol, solium done in 0s
+22:24:28.70 validating Election.sol, solc done in 0s
+22:24:28.96 document changed: Election.sol
+22:24:28.96 Skipping solium, .soliumrc.json not found
+22:24:28.96 validating Election.sol, solium done in 0s
+22:24:28.96 validating Election.sol, solc done in 0s
+22:24:29.54 document changed: Election.sol
+22:24:29.54 Skipping solium, .soliumrc.json not found
+22:24:29.54 validating Election.sol, solium done in 0s
+22:24:29.54 validating Election.sol, solc done in 0s
+22:24:30.90 document changed: Election.sol
+22:24:30.90 Skipping solium, .soliumrc.json not found
+22:24:30.90 validating Election.sol, solium done in 0s
+22:24:30.90 validating Election.sol, solc done in 0s
+22:24:31.16 document changed: Election.sol
+22:24:31.16 Skipping solium, .soliumrc.json not found
+22:24:31.16 validating Election.sol, solium done in 0s
+22:24:31.16 validating Election.sol, solc done in 0s
+22:24:31.49 document changed: Election.sol
+22:24:31.49 Skipping solium, .soliumrc.json not found
+22:24:31.49 validating Election.sol, solium done in 0s
+22:24:31.49 validating Election.sol, solc done in 0s
+22:24:32.04 document changed: Election.sol
+22:24:32.05 Skipping solium, .soliumrc.json not found
+22:24:32.05 validating Election.sol, solium done in 0s
+22:24:32.05 validating Election.sol, solc done in 0s
+22:24:33.04 document changed: Election.sol
+22:24:33.04 Skipping solium, .soliumrc.json not found
+22:24:33.04 validating Election.sol, solium done in 0s
+22:24:33.05 validating Election.sol, solc done in 0s
+22:24:33.85 document changed: Election.sol
+22:24:33.85 Skipping solium, .soliumrc.json not found
+22:24:33.85 validating Election.sol, solium done in 0s
+22:24:33.86 validating Election.sol, solc done in 0s
+22:24:34.32 document changed: Election.sol
+22:24:34.32 Skipping solium, .soliumrc.json not found
+22:24:34.32 validating Election.sol, solium done in 0s
+22:24:34.32 validating Election.sol, solc done in 0s
+22:24:34.62 document changed: Election.sol
+22:24:34.62 Skipping solium, .soliumrc.json not found
+22:24:34.62 validating Election.sol, solium done in 0s
+22:24:34.62 validating Election.sol, solc done in 0s
+22:24:34.93 document changed: Election.sol
+22:24:34.93 Skipping solium, .soliumrc.json not found
+22:24:34.93 validating Election.sol, solium done in 0s
+22:24:34.93 validating Election.sol, solc done in 0s
+22:24:35.20 document changed: Election.sol
+22:24:35.20 Skipping solium, .soliumrc.json not found
+22:24:35.20 validating Election.sol, solium done in 0s
+22:24:35.21 validating Election.sol, solc done in 0s
+22:24:35.57 document changed: Election.sol
+22:24:35.58 Skipping solium, .soliumrc.json not found
+22:24:35.58 validating Election.sol, solium done in 0s
+22:24:35.58 validating Election.sol, solc done in 0s
+22:24:35.58 document saved: Election.sol
+22:24:35.58 Skipping solium, .soliumrc.json not found
+22:24:35.58 validating Election.sol, solium done in 0s
+22:24:35.58 validating Election.sol, solc done in 0s
+22:24:35.77 document changed: Election.sol
+22:24:35.77 Skipping solium, .soliumrc.json not found
+22:24:35.77 validating Election.sol, solium done in 0s
+22:24:35.77 validating Election.sol, solc done in 0s
+22:24:35.77 document saved: Election.sol
+22:24:35.77 Skipping solium, .soliumrc.json not found
+22:24:35.77 validating Election.sol, solium done in 0s
+22:24:35.77 validating Election.sol, solc done in 0s
+22:49:56.82 document changed: Election.sol
+22:49:56.82 Skipping solium, .soliumrc.json not found
+22:49:56.82 validating Election.sol, solium done in 0s
+22:49:56.83 validating Election.sol, solc done in 0s
+22:49:57.31 document changed: Election.sol
+22:49:57.31 Skipping solium, .soliumrc.json not found
+22:49:57.31 validating Election.sol, solium done in 0s
+22:49:57.31 validating Election.sol, solc done in 0s
+22:49:57.87 document changed: Election.sol
+22:49:57.87 Skipping solium, .soliumrc.json not found
+22:49:57.87 validating Election.sol, solium done in 0s
+22:49:57.87 validating Election.sol, solc done in 0s
+22:49:58.83 document changed: Election.sol
+22:49:58.83 Skipping solium, .soliumrc.json not found
+22:49:58.83 validating Election.sol, solium done in 0s
+22:49:58.83 validating Election.sol, solc done in 0s
+22:49:59.43 document changed: Election.sol
+22:49:59.43 Skipping solium, .soliumrc.json not found
+22:49:59.43 validating Election.sol, solium done in 0s
+22:49:59.43 validating Election.sol, solc done in 0s
+22:50:00.18 document changed: Election.sol
+22:50:00.18 Skipping solium, .soliumrc.json not found
+22:50:00.18 validating Election.sol, solium done in 0s
+22:50:00.19 validating Election.sol, solc done in 0s
+22:50:00.47 document changed: Election.sol
+22:50:00.47 Skipping solium, .soliumrc.json not found
+22:50:00.47 validating Election.sol, solium done in 0s
+22:50:00.47 validating Election.sol, solc done in 0s
+22:50:00.93 document changed: Election.sol
+22:50:00.93 Skipping solium, .soliumrc.json not found
+22:50:00.93 validating Election.sol, solium done in 0s
+22:50:00.93 validating Election.sol, solc done in 0s
+22:50:02.02 document changed: Election.sol
+22:50:02.02 Skipping solium, .soliumrc.json not found
+22:50:02.02 validating Election.sol, solium done in 0s
+22:50:02.02 validating Election.sol, solc done in 0s
+22:50:03.00 document changed: Election.sol
+22:50:03.01 Skipping solium, .soliumrc.json not found
+22:50:03.01 validating Election.sol, solium done in 0s
+22:50:03.01 validating Election.sol, solc done in 0s
+22:50:07.22 document changed: Election.sol
+22:50:07.22 Skipping solium, .soliumrc.json not found
+22:50:07.22 validating Election.sol, solium done in 0s
+22:50:07.23 validating Election.sol, solc done in 0s
+22:50:07.63 document changed: Election.sol
+22:50:07.63 Skipping solium, .soliumrc.json not found
+22:50:07.63 validating Election.sol, solium done in 0s
+22:50:07.63 validating Election.sol, solc done in 0s
+22:50:08.15 document changed: Election.sol
+22:50:08.16 Skipping solium, .soliumrc.json not found
+22:50:08.16 validating Election.sol, solium done in 0s
+22:50:08.16 validating Election.sol, solc done in 0s
+22:50:08.36 document changed: Election.sol
+22:50:08.36 Skipping solium, .soliumrc.json not found
+22:50:08.36 validating Election.sol, solium done in 0s
+22:50:08.36 validating Election.sol, solc done in 0s
+22:50:08.82 document changed: Election.sol
+22:50:08.82 Skipping solium, .soliumrc.json not found
+22:50:08.82 validating Election.sol, solium done in 0s
+22:50:08.82 validating Election.sol, solc done in 0s
+22:50:09.50 document changed: Election.sol
+22:50:09.50 Skipping solium, .soliumrc.json not found
+22:50:09.50 validating Election.sol, solium done in 0s
+22:50:09.50 validating Election.sol, solc done in 0s
+22:50:11.05 document changed: Election.sol
+22:50:11.05 Skipping solium, .soliumrc.json not found
+22:50:11.05 validating Election.sol, solium done in 0s
+22:50:11.05 validating Election.sol, solc done in 0s
+22:50:11.66 document changed: Election.sol
+22:50:11.66 Skipping solium, .soliumrc.json not found
+22:50:11.66 validating Election.sol, solium done in 0s
+22:50:11.66 validating Election.sol, solc done in 0s
+22:50:12.43 document changed: Election.sol
+22:50:12.43 Skipping solium, .soliumrc.json not found
+22:50:12.43 validating Election.sol, solium done in 0s
+22:50:12.43 validating Election.sol, solc done in 0s
+22:50:16.79 document changed: Election.sol
+22:50:16.79 Skipping solium, .soliumrc.json not found
+22:50:16.79 validating Election.sol, solium done in 0s
+22:50:16.79 validating Election.sol, solc done in 0s
+22:50:26.70 document changed: Election.sol
+22:50:26.70 Skipping solium, .soliumrc.json not found
+22:50:26.70 validating Election.sol, solium done in 0s
+22:50:26.70 validating Election.sol, solc done in 0s
+22:50:26.93 document changed: Election.sol
+22:50:26.94 Skipping solium, .soliumrc.json not found
+22:50:26.94 validating Election.sol, solium done in 0s
+22:50:26.94 validating Election.sol, solc done in 0s
+22:50:32.64 document changed: Election.sol
+22:50:32.64 Skipping solium, .soliumrc.json not found
+22:50:32.64 validating Election.sol, solium done in 0s
+22:50:32.64 validating Election.sol, solc done in 0s
+22:50:39.67 document changed: Election.sol
+22:50:39.67 Skipping solium, .soliumrc.json not found
+22:50:39.67 validating Election.sol, solium done in 0s
+22:50:39.67 validating Election.sol, solc done in 0s
+22:50:40.04 document changed: Election.sol
+22:50:40.04 Skipping solium, .soliumrc.json not found
+22:50:40.04 validating Election.sol, solium done in 0s
+22:50:40.04 validating Election.sol, solc done in 0s
+22:50:40.49 document changed: Election.sol
+22:50:40.49 Skipping solium, .soliumrc.json not found
+22:50:40.49 validating Election.sol, solium done in 0s
+22:50:40.49 validating Election.sol, solc done in 0s
+22:50:40.90 document changed: Election.sol
+22:50:40.91 Skipping solium, .soliumrc.json not found
+22:50:40.91 validating Election.sol, solium done in 0s
+22:50:40.91 validating Election.sol, solc done in 0s
+22:50:42.50 document changed: Election.sol
+22:50:42.50 Skipping solium, .soliumrc.json not found
+22:50:42.50 validating Election.sol, solium done in 0s
+22:50:42.50 validating Election.sol, solc done in 0s
+22:50:43.36 document changed: Election.sol
+22:50:43.36 Skipping solium, .soliumrc.json not found
+22:50:43.36 validating Election.sol, solium done in 0s
+22:50:43.36 validating Election.sol, solc done in 0s
+22:50:43.72 document changed: Election.sol
+22:50:43.72 Skipping solium, .soliumrc.json not found
+22:50:43.72 validating Election.sol, solium done in 0s
+22:50:43.73 validating Election.sol, solc done in 0s
+22:51:00.87 document changed: Election.sol
+22:51:00.87 Skipping solium, .soliumrc.json not found
+22:51:00.87 validating Election.sol, solium done in 0s
+22:51:00.87 validating Election.sol, solc done in 0s
+22:51:01.73 document changed: Election.sol
+22:51:01.73 Skipping solium, .soliumrc.json not found
+22:51:01.73 validating Election.sol, solium done in 0s
+22:51:01.73 validating Election.sol, solc done in 0s
+22:51:02.60 document changed: Election.sol
+22:51:02.60 Skipping solium, .soliumrc.json not found
+22:51:02.60 validating Election.sol, solium done in 0s
+22:51:02.60 validating Election.sol, solc done in 0s
+22:51:03.24 document changed: Election.sol
+22:51:03.24 Skipping solium, .soliumrc.json not found
+22:51:03.24 validating Election.sol, solium done in 0s
+22:51:03.25 validating Election.sol, solc done in 0s
+22:51:03.46 document changed: Election.sol
+22:51:03.46 Skipping solium, .soliumrc.json not found
+22:51:03.46 validating Election.sol, solium done in 0s
+22:51:03.46 validating Election.sol, solc done in 0s
+22:51:03.92 document changed: Election.sol
+22:51:03.93 Skipping solium, .soliumrc.json not found
+22:51:03.93 validating Election.sol, solium done in 0s
+22:51:03.93 validating Election.sol, solc done in 0s
+22:51:04.75 document changed: Election.sol
+22:51:04.76 Skipping solium, .soliumrc.json not found
+22:51:04.76 validating Election.sol, solium done in 0s
+22:51:04.76 validating Election.sol, solc done in 0s
+22:51:05.41 document changed: Election.sol
+22:51:05.41 Skipping solium, .soliumrc.json not found
+22:51:05.41 validating Election.sol, solium done in 0s
+22:51:05.42 validating Election.sol, solc done in 0s
+22:51:07.59 document changed: Election.sol
+22:51:07.59 Skipping solium, .soliumrc.json not found
+22:51:07.59 validating Election.sol, solium done in 0s
+22:51:07.59 validating Election.sol, solc done in 0s
+22:51:07.80 document changed: Election.sol
+22:51:07.80 Skipping solium, .soliumrc.json not found
+22:51:07.80 validating Election.sol, solium done in 0s
+22:51:07.80 validating Election.sol, solc done in 0s
+22:51:08.30 document changed: Election.sol
+22:51:08.30 Skipping solium, .soliumrc.json not found
+22:51:08.30 validating Election.sol, solium done in 0s
+22:51:08.30 validating Election.sol, solc done in 0s
+22:51:08.50 document changed: Election.sol
+22:51:08.50 Skipping solium, .soliumrc.json not found
+22:51:08.50 validating Election.sol, solium done in 0s
+22:51:08.50 validating Election.sol, solc done in 0s
+22:51:09.80 document changed: Election.sol
+22:51:09.80 Skipping solium, .soliumrc.json not found
+22:51:09.80 validating Election.sol, solium done in 0s
+22:51:09.80 validating Election.sol, solc done in 0s
+22:51:10.79 document changed: Election.sol
+22:51:10.80 Skipping solium, .soliumrc.json not found
+22:51:10.80 validating Election.sol, solium done in 0s
+22:51:10.80 validating Election.sol, solc done in 0s
+22:51:12.52 document changed: Election.sol
+22:51:12.52 Skipping solium, .soliumrc.json not found
+22:51:12.52 validating Election.sol, solium done in 0s
+22:51:12.52 validating Election.sol, solc done in 0s
+22:51:13.04 document changed: Election.sol
+22:51:13.04 Skipping solium, .soliumrc.json not found
+22:51:13.04 validating Election.sol, solium done in 0s
+22:51:13.04 validating Election.sol, solc done in 0s
+22:51:13.32 document changed: Election.sol
+22:51:13.32 Skipping solium, .soliumrc.json not found
+22:51:13.32 validating Election.sol, solium done in 0s
+22:51:13.32 validating Election.sol, solc done in 0s
+22:51:14.20 document changed: Election.sol
+22:51:14.20 Skipping solium, .soliumrc.json not found
+22:51:14.20 validating Election.sol, solium done in 0s
+22:51:14.20 validating Election.sol, solc done in 0s
+22:51:15.69 document changed: Election.sol
+22:51:15.69 Skipping solium, .soliumrc.json not found
+22:51:15.69 validating Election.sol, solium done in 0s
+22:51:15.69 validating Election.sol, solc done in 0s
+22:51:16.97 document changed: Election.sol
+22:51:16.97 Skipping solium, .soliumrc.json not found
+22:51:16.97 validating Election.sol, solium done in 0s
+22:51:16.97 validating Election.sol, solc done in 0s
+22:51:17.17 document changed: Election.sol
+22:51:17.18 Skipping solium, .soliumrc.json not found
+22:51:17.18 validating Election.sol, solium done in 0s
+22:51:17.18 validating Election.sol, solc done in 0s
+22:51:17.68 document changed: Election.sol
+22:51:17.69 Skipping solium, .soliumrc.json not found
+22:51:17.69 validating Election.sol, solium done in 0s
+22:51:17.69 validating Election.sol, solc done in 0s
+22:51:18.31 document changed: Election.sol
+22:51:18.32 Skipping solium, .soliumrc.json not found
+22:51:18.32 validating Election.sol, solium done in 0s
+22:51:18.32 validating Election.sol, solc done in 0s
+22:51:19.08 document changed: Election.sol
+22:51:19.08 Skipping solium, .soliumrc.json not found
+22:51:19.08 validating Election.sol, solium done in 0s
+22:51:19.08 validating Election.sol, solc done in 0s
+22:51:19.40 document changed: Election.sol
+22:51:19.40 Skipping solium, .soliumrc.json not found
+22:51:19.40 validating Election.sol, solium done in 0s
+22:51:19.40 validating Election.sol, solc done in 0s
+22:51:20.39 document changed: Election.sol
+22:51:20.39 Skipping solium, .soliumrc.json not found
+22:51:20.39 validating Election.sol, solium done in 0s
+22:51:20.39 validating Election.sol, solc done in 0s
+22:51:20.77 document changed: Election.sol
+22:51:20.77 Skipping solium, .soliumrc.json not found
+22:51:20.77 validating Election.sol, solium done in 0s
+22:51:20.77 validating Election.sol, solc done in 0s
+22:51:21.26 document changed: Election.sol
+22:51:21.26 Skipping solium, .soliumrc.json not found
+22:51:21.26 validating Election.sol, solium done in 0s
+22:51:21.27 validating Election.sol, solc done in 0s
+22:51:21.31 document changed: Election.sol
+22:51:21.31 Skipping solium, .soliumrc.json not found
+22:51:21.31 validating Election.sol, solium done in 0s
+22:51:21.32 validating Election.sol, solc done in 0s
+22:51:21.33 document saved: Election.sol
+22:51:21.33 Skipping solium, .soliumrc.json not found
+22:51:21.33 validating Election.sol, solium done in 0s
+22:51:21.33 validating Election.sol, solc done in 0s
+22:51:21.50 document changed: Election.sol
+22:51:21.50 Skipping solium, .soliumrc.json not found
+22:51:21.50 validating Election.sol, solium done in 0s
+22:51:21.50 validating Election.sol, solc done in 0s
+22:51:21.50 document saved: Election.sol
+22:51:21.50 Skipping solium, .soliumrc.json not found
+22:51:21.50 validating Election.sol, solium done in 0s
+22:51:21.51 validating Election.sol, solc done in 0s
+22:51:21.66 document changed: Election.sol
+22:51:21.66 Skipping solium, .soliumrc.json not found
+22:51:21.66 validating Election.sol, solium done in 0s
+22:51:21.66 validating Election.sol, solc done in 0s
+22:51:21.66 document saved: Election.sol
+22:51:21.66 Skipping solium, .soliumrc.json not found
+22:51:21.66 validating Election.sol, solium done in 0s
+22:51:21.67 validating Election.sol, solc done in 0s
+22:51:27.15 document changed: Election.sol
+22:51:27.15 Skipping solium, .soliumrc.json not found
+22:51:27.15 validating Election.sol, solium done in 0s
+22:51:27.15 validating Election.sol, solc done in 0s
+22:51:27.79 document changed: Election.sol
+22:51:27.79 Skipping solium, .soliumrc.json not found
+22:51:27.79 validating Election.sol, solium done in 0s
+22:51:27.79 validating Election.sol, solc done in 0s
+22:51:29.10 document changed: Election.sol
+22:51:29.10 Skipping solium, .soliumrc.json not found
+22:51:29.10 validating Election.sol, solium done in 0s
+22:51:29.10 validating Election.sol, solc done in 0s
+22:51:29.72 document changed: Election.sol
+22:51:29.72 Skipping solium, .soliumrc.json not found
+22:51:29.72 validating Election.sol, solium done in 0s
+22:51:29.72 validating Election.sol, solc done in 0s
+22:51:30.19 document changed: Election.sol
+22:51:30.19 Skipping solium, .soliumrc.json not found
+22:51:30.19 validating Election.sol, solium done in 0s
+22:51:30.19 validating Election.sol, solc done in 0s
+22:51:30.45 document changed: Election.sol
+22:51:30.45 Skipping solium, .soliumrc.json not found
+22:51:30.45 validating Election.sol, solium done in 0s
+22:51:30.45 validating Election.sol, solc done in 0s
+22:51:31.98 document changed: Election.sol
+22:51:31.99 Skipping solium, .soliumrc.json not found
+22:51:31.99 validating Election.sol, solium done in 0s
+22:51:31.99 validating Election.sol, solc done in 0s
+22:51:32.86 document changed: Election.sol
+22:51:32.87 Skipping solium, .soliumrc.json not found
+22:51:32.87 validating Election.sol, solium done in 0s
+22:51:32.87 validating Election.sol, solc done in 0s
+22:51:32.87 document saved: Election.sol
+22:51:32.87 Skipping solium, .soliumrc.json not found
+22:51:32.87 validating Election.sol, solium done in 0s
+22:51:32.87 validating Election.sol, solc done in 0s
+22:51:33.05 document changed: Election.sol
+22:51:33.05 Skipping solium, .soliumrc.json not found
+22:51:33.05 validating Election.sol, solium done in 0s
+22:51:33.05 validating Election.sol, solc done in 0s
+22:51:33.05 document saved: Election.sol
+22:51:33.05 Skipping solium, .soliumrc.json not found
+22:51:33.05 validating Election.sol, solium done in 0s
+22:51:33.05 validating Election.sol, solc done in 0s
+22:51:33.18 document changed: Election.sol
+22:51:33.19 Skipping solium, .soliumrc.json not found
+22:51:33.19 validating Election.sol, solium done in 0s
+22:51:33.19 validating Election.sol, solc done in 0s
+22:51:33.19 document saved: Election.sol
+22:51:33.19 Skipping solium, .soliumrc.json not found
+22:51:33.19 validating Election.sol, solium done in 0s
+22:51:33.19 validating Election.sol, solc done in 0s
+22:51:33.30 document changed: Election.sol
+22:51:33.30 Skipping solium, .soliumrc.json not found
+22:51:33.30 validating Election.sol, solium done in 0s
+22:51:33.30 validating Election.sol, solc done in 0s
+22:51:33.30 document saved: Election.sol
+22:51:33.31 Skipping solium, .soliumrc.json not found
+22:51:33.31 validating Election.sol, solium done in 0s
+22:51:33.31 validating Election.sol, solc done in 0s
+22:51:33.46 document changed: Election.sol
+22:51:33.47 Skipping solium, .soliumrc.json not found
+22:51:33.47 validating Election.sol, solium done in 0s
+22:51:33.47 validating Election.sol, solc done in 0s
+22:51:33.47 document saved: Election.sol
+22:51:33.47 Skipping solium, .soliumrc.json not found
+22:51:33.47 validating Election.sol, solium done in 0s
+22:51:33.47 validating Election.sol, solc done in 0s
+22:51:35.61 document changed: Election.sol
+22:51:35.62 Skipping solium, .soliumrc.json not found
+22:51:35.62 validating Election.sol, solium done in 0s
+22:51:35.62 validating Election.sol, solc done in 0s
+22:51:35.62 document saved: Election.sol
+22:51:35.62 Skipping solium, .soliumrc.json not found
+22:51:35.62 validating Election.sol, solium done in 0s
+22:51:35.62 validating Election.sol, solc done in 0s
+22:51:35.80 document changed: Election.sol
+22:51:35.80 Skipping solium, .soliumrc.json not found
+22:51:35.80 validating Election.sol, solium done in 0s
+22:51:35.80 validating Election.sol, solc done in 0s
+22:51:35.80 document saved: Election.sol
+22:51:35.80 Skipping solium, .soliumrc.json not found
+22:51:35.80 validating Election.sol, solium done in 0s
+22:51:35.80 validating Election.sol, solc done in 0s
+22:56:03.89 document changed: Election.sol
+22:56:03.89 Skipping solium, .soliumrc.json not found
+22:56:03.89 validating Election.sol, solium done in 0s
+22:56:03.89 validating Election.sol, solc done in 0s
+22:56:04.65 document changed: Election.sol
+22:56:04.65 Skipping solium, .soliumrc.json not found
+22:56:04.65 validating Election.sol, solium done in 0s
+22:56:04.65 validating Election.sol, solc done in 0s
+22:56:05.54 document changed: Election.sol
+22:56:05.54 Skipping solium, .soliumrc.json not found
+22:56:05.54 validating Election.sol, solium done in 0s
+22:56:05.55 validating Election.sol, solc done in 0s
+22:56:06.82 document changed: Election.sol
+22:56:06.82 Skipping solium, .soliumrc.json not found
+22:56:06.82 validating Election.sol, solium done in 0s
+22:56:06.82 validating Election.sol, solc done in 0s
+22:56:07.28 document changed: Election.sol
+22:56:07.28 Skipping solium, .soliumrc.json not found
+22:56:07.28 validating Election.sol, solium done in 0s
+22:56:07.28 validating Election.sol, solc done in 0s
+22:56:08.41 document changed: Election.sol
+22:56:08.41 Skipping solium, .soliumrc.json not found
+22:56:08.41 validating Election.sol, solium done in 0s
+22:56:08.41 validating Election.sol, solc done in 0s
+22:56:11.87 document changed: Election.sol
+22:56:11.87 Skipping solium, .soliumrc.json not found
+22:56:11.87 validating Election.sol, solium done in 0s
+22:56:11.87 validating Election.sol, solc done in 0s
+22:56:12.74 document changed: Election.sol
+22:56:12.75 Skipping solium, .soliumrc.json not found
+22:56:12.75 validating Election.sol, solium done in 0s
+22:56:12.75 validating Election.sol, solc done in 0s
+22:56:16.32 document changed: Election.sol
+22:56:16.33 Skipping solium, .soliumrc.json not found
+22:56:16.33 validating Election.sol, solium done in 0s
+22:56:16.33 validating Election.sol, solc done in 0s
+22:56:18.62 document changed: Election.sol
+22:56:18.62 Skipping solium, .soliumrc.json not found
+22:56:18.62 validating Election.sol, solium done in 0s
+22:56:18.63 validating Election.sol, solc done in 0s
+22:56:18.89 document changed: Election.sol
+22:56:18.89 Skipping solium, .soliumrc.json not found
+22:56:18.89 validating Election.sol, solium done in 0s
+22:56:18.89 validating Election.sol, solc done in 0s
+22:56:19.32 document changed: Election.sol
+22:56:19.32 Skipping solium, .soliumrc.json not found
+22:56:19.32 validating Election.sol, solium done in 0s
+22:56:19.32 validating Election.sol, solc done in 0s
+22:56:19.56 document changed: Election.sol
+22:56:19.56 Skipping solium, .soliumrc.json not found
+22:56:19.56 validating Election.sol, solium done in 0s
+22:56:19.56 validating Election.sol, solc done in 0s
+22:56:20.38 document changed: Election.sol
+22:56:20.38 Skipping solium, .soliumrc.json not found
+22:56:20.38 validating Election.sol, solium done in 0s
+22:56:20.38 validating Election.sol, solc done in 0s
+22:56:20.38 document saved: Election.sol
+22:56:20.38 Skipping solium, .soliumrc.json not found
+22:56:20.38 validating Election.sol, solium done in 0s
+22:56:20.38 validating Election.sol, solc done in 0s
+22:56:20.60 document changed: Election.sol
+22:56:20.60 Skipping solium, .soliumrc.json not found
+22:56:20.60 validating Election.sol, solium done in 0s
+22:56:20.60 validating Election.sol, solc done in 0s
+22:56:20.60 document saved: Election.sol
+22:56:20.60 Skipping solium, .soliumrc.json not found
+22:56:20.60 validating Election.sol, solium done in 0s
+22:56:20.61 validating Election.sol, solc done in 0s
+22:56:20.80 document changed: Election.sol
+22:56:20.80 Skipping solium, .soliumrc.json not found
+22:56:20.80 validating Election.sol, solium done in 0s
+22:56:20.80 validating Election.sol, solc done in 0s
+22:56:20.81 document saved: Election.sol
+22:56:20.81 Skipping solium, .soliumrc.json not found
+22:56:20.81 validating Election.sol, solium done in 0s
+22:56:20.81 validating Election.sol, solc done in 0s
+22:56:25.30 document changed: Election.sol
+22:56:25.30 Skipping solium, .soliumrc.json not found
+22:56:25.30 validating Election.sol, solium done in 0s
+22:56:25.30 validating Election.sol, solc done in 0s
+22:56:25.87 document changed: Election.sol
+22:56:25.87 Skipping solium, .soliumrc.json not found
+22:56:25.87 validating Election.sol, solium done in 0s
+22:56:25.87 validating Election.sol, solc done in 0s
+22:56:26.39 document changed: Election.sol
+22:56:26.39 Skipping solium, .soliumrc.json not found
+22:56:26.39 validating Election.sol, solium done in 0s
+22:56:26.39 validating Election.sol, solc done in 0s
+22:56:28.13 document changed: Election.sol
+22:56:28.14 Skipping solium, .soliumrc.json not found
+22:56:28.14 validating Election.sol, solium done in 0s
+22:56:28.14 validating Election.sol, solc done in 0s
+22:56:30.76 document changed: Election.sol
+22:56:30.76 Skipping solium, .soliumrc.json not found
+22:56:30.76 validating Election.sol, solium done in 0s
+22:56:30.76 validating Election.sol, solc done in 0s
+22:56:32.29 document changed: Election.sol
+22:56:32.29 Skipping solium, .soliumrc.json not found
+22:56:32.29 validating Election.sol, solium done in 0s
+22:56:32.29 validating Election.sol, solc done in 0s
+22:56:32.75 document changed: Election.sol
+22:56:32.75 Skipping solium, .soliumrc.json not found
+22:56:32.75 validating Election.sol, solium done in 0s
+22:56:32.75 validating Election.sol, solc done in 0s
+22:56:32.98 document changed: Election.sol
+22:56:32.98 Skipping solium, .soliumrc.json not found
+22:56:32.98 validating Election.sol, solium done in 0s
+22:56:32.98 validating Election.sol, solc done in 0s
+22:56:34.02 document changed: Election.sol
+22:56:34.02 Skipping solium, .soliumrc.json not found
+22:56:34.02 validating Election.sol, solium done in 0s
+22:56:34.03 validating Election.sol, solc done in 0s
+22:56:34.78 document changed: Election.sol
+22:56:34.78 Skipping solium, .soliumrc.json not found
+22:56:34.78 validating Election.sol, solium done in 0s
+22:56:34.78 validating Election.sol, solc done in 0s
+22:56:35.00 document changed: Election.sol
+22:56:35.00 Skipping solium, .soliumrc.json not found
+22:56:35.00 validating Election.sol, solium done in 0s
+22:56:35.00 validating Election.sol, solc done in 0s
+22:56:35.68 document changed: Election.sol
+22:56:35.68 Skipping solium, .soliumrc.json not found
+22:56:35.68 validating Election.sol, solium done in 0s
+22:56:35.68 validating Election.sol, solc done in 0s
+22:56:36.15 document changed: Election.sol
+22:56:36.15 Skipping solium, .soliumrc.json not found
+22:56:36.15 validating Election.sol, solium done in 0s
+22:56:36.16 validating Election.sol, solc done in 0s
+22:56:36.75 document changed: Election.sol
+22:56:36.75 Skipping solium, .soliumrc.json not found
+22:56:36.75 validating Election.sol, solium done in 0s
+22:56:36.75 validating Election.sol, solc done in 0s
+22:56:37.53 document changed: Election.sol
+22:56:37.53 Skipping solium, .soliumrc.json not found
+22:56:37.53 validating Election.sol, solium done in 0s
+22:56:37.54 validating Election.sol, solc done in 0s
+22:56:37.95 document changed: Election.sol
+22:56:37.95 Skipping solium, .soliumrc.json not found
+22:56:37.95 validating Election.sol, solium done in 0s
+22:56:37.95 validating Election.sol, solc done in 0s
+22:56:38.78 document changed: Election.sol
+22:56:38.78 Skipping solium, .soliumrc.json not found
+22:56:38.78 validating Election.sol, solium done in 0s
+22:56:38.78 validating Election.sol, solc done in 0s
+22:56:38.78 document saved: Election.sol
+22:56:38.78 Skipping solium, .soliumrc.json not found
+22:56:38.78 validating Election.sol, solium done in 0s
+22:56:38.79 validating Election.sol, solc done in 0s
+22:56:38.99 document changed: Election.sol
+22:56:38.99 Skipping solium, .soliumrc.json not found
+22:56:38.99 validating Election.sol, solium done in 0s
+22:56:38.99 validating Election.sol, solc done in 0s
+22:56:38.99 document saved: Election.sol
+22:56:38.99 Skipping solium, .soliumrc.json not found
+22:56:38.99 validating Election.sol, solium done in 0s
+22:56:38.99 validating Election.sol, solc done in 0s
+22:56:39.19 document changed: Election.sol
+22:56:39.20 Skipping solium, .soliumrc.json not found
+22:56:39.20 validating Election.sol, solium done in 0s
+22:56:39.20 validating Election.sol, solc done in 0s
+22:56:39.20 document saved: Election.sol
+22:56:39.20 Skipping solium, .soliumrc.json not found
+22:56:39.20 validating Election.sol, solium done in 0s
+22:56:39.20 validating Election.sol, solc done in 0s
+22:57:11.02 document changed: Election.sol
+22:57:11.02 Skipping solium, .soliumrc.json not found
+22:57:11.02 validating Election.sol, solium done in 0s
+22:57:11.02 validating Election.sol, solc done in 0s
+22:57:13.25 document changed: Election.sol
+22:57:13.25 Skipping solium, .soliumrc.json not found
+22:57:13.25 validating Election.sol, solium done in 0s
+22:57:13.25 validating Election.sol, solc done in 0s
+22:57:16.17 document changed: Election.sol
+22:57:16.17 Skipping solium, .soliumrc.json not found
+22:57:16.17 validating Election.sol, solium done in 0s
+22:57:16.17 validating Election.sol, solc done in 0s
+22:57:16.28 document changed: Election.sol
+22:57:16.28 Skipping solium, .soliumrc.json not found
+22:57:16.28 validating Election.sol, solium done in 0s
+22:57:16.28 validating Election.sol, solc done in 0s
+22:57:16.28 document saved: Election.sol
+22:57:16.28 Skipping solium, .soliumrc.json not found
+22:57:16.28 validating Election.sol, solium done in 0s
+22:57:16.28 validating Election.sol, solc done in 0s
+22:57:16.48 document changed: Election.sol
+22:57:16.48 Skipping solium, .soliumrc.json not found
+22:57:16.48 validating Election.sol, solium done in 0s
+22:57:16.48 validating Election.sol, solc done in 0s
+22:57:16.49 document saved: Election.sol
+22:57:16.49 Skipping solium, .soliumrc.json not found
+22:57:16.49 validating Election.sol, solium done in 0s
+22:57:16.49 validating Election.sol, solc done in 0s
+22:57:16.67 document changed: Election.sol
+22:57:16.67 Skipping solium, .soliumrc.json not found
+22:57:16.67 validating Election.sol, solium done in 0s
+22:57:16.67 validating Election.sol, solc done in 0s
+22:57:16.67 document saved: Election.sol
+22:57:16.67 Skipping solium, .soliumrc.json not found
+22:57:16.67 validating Election.sol, solium done in 0s
+22:57:16.67 validating Election.sol, solc done in 0s
+22:57:16.85 document changed: Election.sol
+22:57:16.85 Skipping solium, .soliumrc.json not found
+22:57:16.85 validating Election.sol, solium done in 0s
+22:57:16.85 validating Election.sol, solc done in 0s
+22:57:16.85 document saved: Election.sol
+22:57:16.85 Skipping solium, .soliumrc.json not found
+22:57:16.85 validating Election.sol, solium done in 0s
+22:57:16.85 validating Election.sol, solc done in 0s
+22:57:22.08 document changed: Election.sol
+22:57:22.09 Skipping solium, .soliumrc.json not found
+22:57:22.09 validating Election.sol, solium done in 0s
+22:57:22.09 validating Election.sol, solc done in 0s
+22:57:22.32 document changed: Election.sol
+22:57:22.32 Skipping solium, .soliumrc.json not found
+22:57:22.32 validating Election.sol, solium done in 0s
+22:57:22.32 validating Election.sol, solc done in 0s
+22:57:22.64 document changed: Election.sol
+22:57:22.64 Skipping solium, .soliumrc.json not found
+22:57:22.64 validating Election.sol, solium done in 0s
+22:57:22.64 validating Election.sol, solc done in 0s
+22:57:23.07 document changed: Election.sol
+22:57:23.07 Skipping solium, .soliumrc.json not found
+22:57:23.07 validating Election.sol, solium done in 0s
+22:57:23.07 validating Election.sol, solc done in 0s
+22:57:24.34 document changed: Election.sol
+22:57:24.34 Skipping solium, .soliumrc.json not found
+22:57:24.34 validating Election.sol, solium done in 0s
+22:57:24.34 validating Election.sol, solc done in 0s
+22:57:24.34 document saved: Election.sol
+22:57:24.34 Skipping solium, .soliumrc.json not found
+22:57:24.34 validating Election.sol, solium done in 0s
+22:57:24.34 validating Election.sol, solc done in 0s
+22:57:24.52 document changed: Election.sol
+22:57:24.52 Skipping solium, .soliumrc.json not found
+22:57:24.52 validating Election.sol, solium done in 0s
+22:57:24.52 validating Election.sol, solc done in 0s
+22:57:24.52 document saved: Election.sol
+22:57:24.52 Skipping solium, .soliumrc.json not found
+22:57:24.52 validating Election.sol, solium done in 0s
+22:57:24.52 validating Election.sol, solc done in 0s
+22:57:33.81 document changed: Election.sol
+22:57:33.81 Skipping solium, .soliumrc.json not found
+22:57:33.81 validating Election.sol, solium done in 0s
+22:57:33.82 validating Election.sol, solc done in 0s
+22:57:34.02 document changed: Election.sol
+22:57:34.02 Skipping solium, .soliumrc.json not found
+22:57:34.02 validating Election.sol, solium done in 0s
+22:57:34.03 validating Election.sol, solc done in 0s
+22:57:34.55 document changed: Election.sol
+22:57:34.55 Skipping solium, .soliumrc.json not found
+22:57:34.55 validating Election.sol, solium done in 0s
+22:57:34.55 validating Election.sol, solc done in 0s
+22:57:35.23 document changed: Election.sol
+22:57:35.24 Skipping solium, .soliumrc.json not found
+22:57:35.24 validating Election.sol, solium done in 0s
+22:57:35.24 validating Election.sol, solc done in 0s
+22:57:35.24 document saved: Election.sol
+22:57:35.24 Skipping solium, .soliumrc.json not found
+22:57:35.24 validating Election.sol, solium done in 0s
+22:57:35.24 validating Election.sol, solc done in 0s
+22:57:35.41 document changed: Election.sol
+22:57:35.41 Skipping solium, .soliumrc.json not found
+22:57:35.41 validating Election.sol, solium done in 0s
+22:57:35.41 validating Election.sol, solc done in 0s
+22:57:35.41 document saved: Election.sol
+22:57:35.41 Skipping solium, .soliumrc.json not found
+22:57:35.41 validating Election.sol, solium done in 0s
+22:57:35.41 validating Election.sol, solc done in 0s
+22:57:35.55 document changed: Election.sol
+22:57:35.55 Skipping solium, .soliumrc.json not found
+22:57:35.55 validating Election.sol, solium done in 0s
+22:57:35.56 validating Election.sol, solc done in 0s
+22:57:35.56 document saved: Election.sol
+22:57:35.56 Skipping solium, .soliumrc.json not found
+22:57:35.56 validating Election.sol, solium done in 0s
+22:57:35.56 validating Election.sol, solc done in 0s
+22:57:35.71 document changed: Election.sol
+22:57:35.71 Skipping solium, .soliumrc.json not found
+22:57:35.71 validating Election.sol, solium done in 0s
+22:57:35.71 validating Election.sol, solc done in 0s
+22:57:35.72 document saved: Election.sol
+22:57:35.72 Skipping solium, .soliumrc.json not found
+22:57:35.72 validating Election.sol, solium done in 0s
+22:57:35.72 validating Election.sol, solc done in 0s
+22:57:35.86 document changed: Election.sol
+22:57:35.86 Skipping solium, .soliumrc.json not found
+22:57:35.86 validating Election.sol, solium done in 0s
+22:57:35.86 validating Election.sol, solc done in 0s
+22:57:35.86 document saved: Election.sol
+22:57:35.86 Skipping solium, .soliumrc.json not found
+22:57:35.86 validating Election.sol, solium done in 0s
+22:57:35.86 validating Election.sol, solc done in 0s
+23:02:37.25 document changed: Election.sol
+23:02:37.25 Skipping solium, .soliumrc.json not found
+23:02:37.25 validating Election.sol, solium done in 0s
+23:02:37.26 validating Election.sol, solc done in 0s
+23:02:37.53 document changed: Election.sol
+23:02:37.53 Skipping solium, .soliumrc.json not found
+23:02:37.53 validating Election.sol, solium done in 0s
+23:02:37.53 validating Election.sol, solc done in 0s
+23:02:37.95 document changed: Election.sol
+23:02:37.95 Skipping solium, .soliumrc.json not found
+23:02:37.95 validating Election.sol, solium done in 0s
+23:02:37.95 validating Election.sol, solc done in 0s
+23:02:56.98 document changed: Election.sol
+23:02:56.99 Skipping solium, .soliumrc.json not found
+23:02:56.99 validating Election.sol, solium done in 0s
+23:02:56.99 validating Election.sol, solc done in 0s
+23:11:06.79 document changed: Election.sol
+23:11:06.80 Skipping solium, .soliumrc.json not found
+23:11:06.80 validating Election.sol, solium done in 0s
+23:11:06.80 validating Election.sol, solc done in 0s
+22:39:43.11 document changed: Election.sol
+22:39:43.12 Skipping solium, .soliumrc.json not found
+22:39:43.12 validating Election.sol, solium done in 0s
+22:39:43.13 validating Election.sol, solc done in 0s
+22:42:38.88 document changed: Election.sol
+22:42:38.88 Skipping solium, .soliumrc.json not found
+22:42:38.88 validating Election.sol, solium done in 0s
+22:42:38.88 validating Election.sol, solc done in 0s
+22:51:56.90 document changed: Election.sol
+22:51:56.90 Skipping solium, .soliumrc.json not found
+22:51:56.90 validating Election.sol, solium done in 0s
+22:51:56.91 validating Election.sol, solc done in 0s
+22:52:24.54 document changed: Election.sol
+22:52:24.55 Skipping solium, .soliumrc.json not found
+22:52:24.55 validating Election.sol, solium done in 0s
+22:52:24.55 validating Election.sol, solc done in 0s
+22:10:46.08 document changed: Election.sol
+22:10:46.09 Skipping solium, .soliumrc.json not found
+22:10:46.09 validating Election.sol, solium done in 0s
+22:10:46.09 validating Election.sol, solc done in 0s
+00:01:46.83 document changed: Election.sol
+00:01:46.83 Skipping solium, .soliumrc.json not found
+00:01:46.83 validating Election.sol, solium done in 0s
+00:01:46.85 validating Election.sol, solc done in 0s
+00:01:50.56 document changed: Election.sol
+00:01:50.56 Skipping solium, .soliumrc.json not found
+00:01:50.56 validating Election.sol, solium done in 0s
+00:01:50.57 validating Election.sol, solc done in 0s
+00:01:51.15 document changed: Election.sol
+00:01:51.15 Skipping solium, .soliumrc.json not found
+00:01:51.15 validating Election.sol, solium done in 0s
+00:01:51.15 validating Election.sol, solc done in 0s
+00:01:51.89 document changed: Election.sol
+00:01:51.90 Skipping solium, .soliumrc.json not found
+00:01:51.90 validating Election.sol, solium done in 0s
+00:01:51.90 validating Election.sol, solc done in 0s
+00:01:52.24 document changed: Election.sol
+00:01:52.24 Skipping solium, .soliumrc.json not found
+00:01:52.24 validating Election.sol, solium done in 0s
+00:01:52.24 validating Election.sol, solc done in 0s
+00:01:52.65 document changed: Election.sol
+00:01:52.65 Skipping solium, .soliumrc.json not found
+00:01:52.66 validating Election.sol, solium done in 0s
+00:01:52.66 validating Election.sol, solc done in 0s
+00:01:55.04 document changed: Election.sol
+00:01:55.05 Skipping solium, .soliumrc.json not found
+00:01:55.05 validating Election.sol, solium done in 0s
+00:01:55.05 validating Election.sol, solc done in 0s
+00:01:55.41 document changed: Election.sol
+00:01:55.41 Skipping solium, .soliumrc.json not found
+00:01:55.41 validating Election.sol, solium done in 0s
+00:01:55.41 validating Election.sol, solc done in 0s
+00:01:55.62 document changed: Election.sol
+00:01:55.62 Skipping solium, .soliumrc.json not found
+00:01:55.62 validating Election.sol, solium done in 0s
+00:01:55.62 validating Election.sol, solc done in 0s
+00:01:58.84 document changed: Election.sol
+00:01:58.84 Skipping solium, .soliumrc.json not found
+00:01:58.84 validating Election.sol, solium done in 0s
+00:01:58.84 validating Election.sol, solc done in 0s
+00:01:59.25 document changed: Election.sol
+00:01:59.25 Skipping solium, .soliumrc.json not found
+00:01:59.25 validating Election.sol, solium done in 0s
+00:01:59.26 validating Election.sol, solc done in 0s
+00:01:59.48 document changed: Election.sol
+00:01:59.48 Skipping solium, .soliumrc.json not found
+00:01:59.48 validating Election.sol, solium done in 0s
+00:01:59.48 validating Election.sol, solc done in 0s
+00:01:59.70 document changed: Election.sol
+00:01:59.70 Skipping solium, .soliumrc.json not found
+00:01:59.70 validating Election.sol, solium done in 0s
+00:01:59.70 validating Election.sol, solc done in 0s
+00:02:01.24 document changed: Election.sol
+00:02:01.24 Skipping solium, .soliumrc.json not found
+00:02:01.24 validating Election.sol, solium done in 0s
+00:02:01.25 validating Election.sol, solc done in 0s
+00:02:03.24 document changed: Election.sol
+00:02:03.24 Skipping solium, .soliumrc.json not found
+00:02:03.24 validating Election.sol, solium done in 0s
+00:02:03.24 validating Election.sol, solc done in 0s
+00:02:04.47 document changed: Election.sol
+00:02:04.48 Skipping solium, .soliumrc.json not found
+00:02:04.48 validating Election.sol, solium done in 0s
+00:02:04.48 validating Election.sol, solc done in 0s
+00:02:05.01 document changed: Election.sol
+00:02:05.01 Skipping solium, .soliumrc.json not found
+00:02:05.01 validating Election.sol, solium done in 0s
+00:02:05.01 validating Election.sol, solc done in 0s
+00:02:07.81 document changed: Election.sol
+00:02:07.81 Skipping solium, .soliumrc.json not found
+00:02:07.81 validating Election.sol, solium done in 0s
+00:02:07.81 validating Election.sol, solc done in 0s
+00:02:08.22 document changed: Election.sol
+00:02:08.22 Skipping solium, .soliumrc.json not found
+00:02:08.22 validating Election.sol, solium done in 0s
+00:02:08.22 validating Election.sol, solc done in 0s
+00:02:11.53 document changed: Election.sol
+00:02:11.53 Skipping solium, .soliumrc.json not found
+00:02:11.53 validating Election.sol, solium done in 0s
+00:02:11.53 validating Election.sol, solc done in 0s
+00:02:11.94 document changed: Election.sol
+00:02:11.94 Skipping solium, .soliumrc.json not found
+00:02:11.94 validating Election.sol, solium done in 0s
+00:02:11.94 validating Election.sol, solc done in 0s
+00:02:12.34 document changed: Election.sol
+00:02:12.34 Skipping solium, .soliumrc.json not found
+00:02:12.34 validating Election.sol, solium done in 0s
+00:02:12.34 validating Election.sol, solc done in 0s
+00:02:15.51 document changed: Election.sol
+00:02:15.51 Skipping solium, .soliumrc.json not found
+00:02:15.51 validating Election.sol, solium done in 0s
+00:02:15.51 validating Election.sol, solc done in 0s
+00:02:16.34 document changed: Election.sol
+00:02:16.35 Skipping solium, .soliumrc.json not found
+00:02:16.35 validating Election.sol, solium done in 0s
+00:02:16.35 validating Election.sol, solc done in 0s
+00:02:16.99 document changed: Election.sol
+00:02:17.00 Skipping solium, .soliumrc.json not found
+00:02:17.00 validating Election.sol, solium done in 0s
+00:02:17.00 validating Election.sol, solc done in 0s
+00:02:17.61 document changed: Election.sol
+00:02:17.61 Skipping solium, .soliumrc.json not found
+00:02:17.61 validating Election.sol, solium done in 0s
+00:02:17.61 validating Election.sol, solc done in 0s
+00:02:18.26 document changed: Election.sol
+00:02:18.26 Skipping solium, .soliumrc.json not found
+00:02:18.26 validating Election.sol, solium done in 0s
+00:02:18.26 validating Election.sol, solc done in 0s
+00:02:19.12 document changed: Election.sol
+00:02:19.12 Skipping solium, .soliumrc.json not found
+00:02:19.12 validating Election.sol, solium done in 0s
+00:02:19.12 validating Election.sol, solc done in 0s
+00:02:19.35 document changed: Election.sol
+00:02:19.35 Skipping solium, .soliumrc.json not found
+00:02:19.35 validating Election.sol, solium done in 0s
+00:02:19.35 validating Election.sol, solc done in 0s
+00:02:19.74 document changed: Election.sol
+00:02:19.74 Skipping solium, .soliumrc.json not found
+00:02:19.74 validating Election.sol, solium done in 0s
+00:02:19.74 validating Election.sol, solc done in 0s
+00:02:19.74 document saved: Election.sol
+00:02:19.74 Skipping solium, .soliumrc.json not found
+00:02:19.74 validating Election.sol, solium done in 0s
+00:02:19.74 validating Election.sol, solc done in 0s
+00:02:19.94 document changed: Election.sol
+00:02:19.94 Skipping solium, .soliumrc.json not found
+00:02:19.94 validating Election.sol, solium done in 0s
+00:02:19.94 validating Election.sol, solc done in 0s
+00:02:19.94 document saved: Election.sol
+00:02:19.94 Skipping solium, .soliumrc.json not found
+00:02:19.94 validating Election.sol, solium done in 0s
+00:02:19.94 validating Election.sol, solc done in 0s
+00:02:20.17 document changed: Election.sol
+00:02:20.17 Skipping solium, .soliumrc.json not found
+00:02:20.17 validating Election.sol, solium done in 0s
+00:02:20.17 validating Election.sol, solc done in 0s
+00:02:20.17 document saved: Election.sol
+00:02:20.17 Skipping solium, .soliumrc.json not found
+00:02:20.17 validating Election.sol, solium done in 0s
+00:02:20.18 validating Election.sol, solc done in 0s
+00:02:20.48 document changed: Election.sol
+00:02:20.48 Skipping solium, .soliumrc.json not found
+00:02:20.48 validating Election.sol, solium done in 0s
+00:02:20.48 validating Election.sol, solc done in 0s
+00:02:20.48 document saved: Election.sol
+00:02:20.48 Skipping solium, .soliumrc.json not found
+00:02:20.48 validating Election.sol, solium done in 0s
+00:02:20.48 validating Election.sol, solc done in 0s
+00:02:27.26 document changed: Election.sol
+00:02:27.26 Skipping solium, .soliumrc.json not found
+00:02:27.26 validating Election.sol, solium done in 0s
+00:02:27.26 validating Election.sol, solc done in 0s
+00:02:27.66 document changed: Election.sol
+00:02:27.66 Skipping solium, .soliumrc.json not found
+00:02:27.66 validating Election.sol, solium done in 0s
+00:02:27.66 validating Election.sol, solc done in 0s
+00:02:27.66 document saved: Election.sol
+00:02:27.66 Skipping solium, .soliumrc.json not found
+00:02:27.66 validating Election.sol, solium done in 0s
+00:02:27.66 validating Election.sol, solc done in 0s
+00:02:27.83 document changed: Election.sol
+00:02:27.84 Skipping solium, .soliumrc.json not found
+00:02:27.84 validating Election.sol, solium done in 0s
+00:02:27.84 validating Election.sol, solc done in 0s
+00:02:27.84 document saved: Election.sol
+00:02:27.84 Skipping solium, .soliumrc.json not found
+00:02:27.84 validating Election.sol, solium done in 0s
+00:02:27.84 validating Election.sol, solc done in 0s
+00:02:47.50 document changed: Election.sol
+00:02:47.50 Skipping solium, .soliumrc.json not found
+00:02:47.50 validating Election.sol, solium done in 0s
+00:02:47.51 validating Election.sol, solc done in 0s
+00:02:49.04 document changed: Election.sol
+00:02:49.04 Skipping solium, .soliumrc.json not found
+00:02:49.04 validating Election.sol, solium done in 0s
+00:02:49.04 validating Election.sol, solc done in 0s
+00:02:49.04 document saved: Election.sol
+00:02:49.04 Skipping solium, .soliumrc.json not found
+00:02:49.04 validating Election.sol, solium done in 0s
+00:02:49.04 validating Election.sol, solc done in 0s
+00:02:50.38 document changed: Election.sol
+00:02:50.38 Skipping solium, .soliumrc.json not found
+00:02:50.38 validating Election.sol, solium done in 0s
+00:02:50.38 validating Election.sol, solc done in 0s
+00:02:50.38 document saved: Election.sol
+00:02:50.38 Skipping solium, .soliumrc.json not found
+00:02:50.38 validating Election.sol, solium done in 0s
+00:02:50.38 validating Election.sol, solc done in 0s
+00:02:50.57 document changed: Election.sol
+00:02:50.57 Skipping solium, .soliumrc.json not found
+00:02:50.57 validating Election.sol, solium done in 0s
+00:02:50.57 validating Election.sol, solc done in 0s
+00:02:50.57 document saved: Election.sol
+00:02:50.57 Skipping solium, .soliumrc.json not found
+00:02:50.57 validating Election.sol, solium done in 0s
+00:02:50.57 validating Election.sol, solc done in 0s
+00:03:06.33 document changed: Election.sol
+00:03:06.33 Skipping solium, .soliumrc.json not found
+00:03:06.33 validating Election.sol, solium done in 0s
+00:03:06.33 validating Election.sol, solc done in 0s
+00:03:06.90 document changed: Election.sol
+00:03:06.90 Skipping solium, .soliumrc.json not found
+00:03:06.90 validating Election.sol, solium done in 0s
+00:03:06.90 validating Election.sol, solc done in 0s
+00:03:07.32 document changed: Election.sol
+00:03:07.32 Skipping solium, .soliumrc.json not found
+00:03:07.32 validating Election.sol, solium done in 0s
+00:03:07.32 validating Election.sol, solc done in 0s
+00:03:07.74 document changed: Election.sol
+00:03:07.74 Skipping solium, .soliumrc.json not found
+00:03:07.74 validating Election.sol, solium done in 0s
+00:03:07.74 validating Election.sol, solc done in 0s
+00:03:09.63 document changed: Election.sol
+00:03:09.64 Skipping solium, .soliumrc.json not found
+00:03:09.64 validating Election.sol, solium done in 0s
+00:03:09.64 validating Election.sol, solc done in 0s
+00:03:09.91 document changed: Election.sol
+00:03:09.92 Skipping solium, .soliumrc.json not found
+00:03:09.92 validating Election.sol, solium done in 0s
+00:03:09.92 validating Election.sol, solc done in 0s
+00:03:10.18 document changed: Election.sol
+00:03:10.18 Skipping solium, .soliumrc.json not found
+00:03:10.18 validating Election.sol, solium done in 0s
+00:03:10.18 validating Election.sol, solc done in 0s
+00:03:10.67 document changed: Election.sol
+00:03:10.67 Skipping solium, .soliumrc.json not found
+00:03:10.67 validating Election.sol, solium done in 0s
+00:03:10.67 validating Election.sol, solc done in 0s
+00:03:11.51 document changed: Election.sol
+00:03:11.51 Skipping solium, .soliumrc.json not found
+00:03:11.51 validating Election.sol, solium done in 0s
+00:03:11.52 validating Election.sol, solc done in 0s
+00:03:13.46 document changed: Election.sol
+00:03:13.46 Skipping solium, .soliumrc.json not found
+00:03:13.46 validating Election.sol, solium done in 0s
+00:03:13.46 validating Election.sol, solc done in 0s
+00:03:14.23 document changed: Election.sol
+00:03:14.23 Skipping solium, .soliumrc.json not found
+00:03:14.23 validating Election.sol, solium done in 0s
+00:03:14.23 validating Election.sol, solc done in 0s
+00:03:14.43 document changed: Election.sol
+00:03:14.43 Skipping solium, .soliumrc.json not found
+00:03:14.43 validating Election.sol, solium done in 0s
+00:03:14.43 validating Election.sol, solc done in 0s
+00:03:15.19 document changed: Election.sol
+00:03:15.19 Skipping solium, .soliumrc.json not found
+00:03:15.19 validating Election.sol, solium done in 0s
+00:03:15.19 validating Election.sol, solc done in 0s
+00:03:16.40 document changed: Election.sol
+00:03:16.40 Skipping solium, .soliumrc.json not found
+00:03:16.40 validating Election.sol, solium done in 0s
+00:03:16.40 validating Election.sol, solc done in 0s
+00:03:16.63 document changed: Election.sol
+00:03:16.64 Skipping solium, .soliumrc.json not found
+00:03:16.64 validating Election.sol, solium done in 0s
+00:03:16.64 validating Election.sol, solc done in 0s
+00:03:18.17 document changed: Election.sol
+00:03:18.17 Skipping solium, .soliumrc.json not found
+00:03:18.17 validating Election.sol, solium done in 0s
+00:03:18.17 validating Election.sol, solc done in 0s
+00:03:18.73 document changed: Election.sol
+00:03:18.73 Skipping solium, .soliumrc.json not found
+00:03:18.73 validating Election.sol, solium done in 0s
+00:03:18.74 validating Election.sol, solc done in 0s
+00:03:19.63 document changed: Election.sol
+00:03:19.63 Skipping solium, .soliumrc.json not found
+00:03:19.63 validating Election.sol, solium done in 0s
+00:03:19.64 validating Election.sol, solc done in 0s
+00:03:20.04 document changed: Election.sol
+00:03:20.04 Skipping solium, .soliumrc.json not found
+00:03:20.04 validating Election.sol, solium done in 0s
+00:03:20.04 validating Election.sol, solc done in 0s
+00:03:20.37 document changed: Election.sol
+00:03:20.37 Skipping solium, .soliumrc.json not found
+00:03:20.37 validating Election.sol, solium done in 0s
+00:03:20.37 validating Election.sol, solc done in 0s
+00:03:23.33 document changed: Election.sol
+00:03:23.33 Skipping solium, .soliumrc.json not found
+00:03:23.33 validating Election.sol, solium done in 0s
+00:03:23.33 validating Election.sol, solc done in 0s
+00:03:24.35 document changed: Election.sol
+00:03:24.35 Skipping solium, .soliumrc.json not found
+00:03:24.35 validating Election.sol, solium done in 0s
+00:03:24.35 validating Election.sol, solc done in 0s
+00:03:24.57 document changed: Election.sol
+00:03:24.57 Skipping solium, .soliumrc.json not found
+00:03:24.57 validating Election.sol, solium done in 0s
+00:03:24.57 validating Election.sol, solc done in 0s
+00:03:25.32 document changed: Election.sol
+00:03:25.32 Skipping solium, .soliumrc.json not found
+00:03:25.32 validating Election.sol, solium done in 0s
+00:03:25.32 validating Election.sol, solc done in 0s
+00:03:26.53 document changed: Election.sol
+00:03:26.53 Skipping solium, .soliumrc.json not found
+00:03:26.53 validating Election.sol, solium done in 0s
+00:03:26.53 validating Election.sol, solc done in 0s
+00:03:27.15 document changed: Election.sol
+00:03:27.15 Skipping solium, .soliumrc.json not found
+00:03:27.15 validating Election.sol, solium done in 0s
+00:03:27.15 validating Election.sol, solc done in 0s
+00:03:27.98 document changed: Election.sol
+00:03:27.98 Skipping solium, .soliumrc.json not found
+00:03:27.98 validating Election.sol, solium done in 0s
+00:03:27.99 validating Election.sol, solc done in 0s
+00:03:28.56 document changed: Election.sol
+00:03:28.56 Skipping solium, .soliumrc.json not found
+00:03:28.56 validating Election.sol, solium done in 0s
+00:03:28.56 validating Election.sol, solc done in 0s
+00:03:29.02 document changed: Election.sol
+00:03:29.02 Skipping solium, .soliumrc.json not found
+00:03:29.02 validating Election.sol, solium done in 0s
+00:03:29.02 validating Election.sol, solc done in 0s
+00:03:29.03 document saved: Election.sol
+00:03:29.03 Skipping solium, .soliumrc.json not found
+00:03:29.03 validating Election.sol, solium done in 0s
+00:03:29.03 validating Election.sol, solc done in 0s
+00:03:29.22 document changed: Election.sol
+00:03:29.22 Skipping solium, .soliumrc.json not found
+00:03:29.22 validating Election.sol, solium done in 0s
+00:03:29.22 validating Election.sol, solc done in 0s
+00:03:29.22 document saved: Election.sol
+00:03:29.22 Skipping solium, .soliumrc.json not found
+00:03:29.22 validating Election.sol, solium done in 0s
+00:03:29.22 validating Election.sol, solc done in 0s
+00:03:29.41 document changed: Election.sol
+00:03:29.41 Skipping solium, .soliumrc.json not found
+00:03:29.41 validating Election.sol, solium done in 0s
+00:03:29.42 validating Election.sol, solc done in 0s
+00:03:29.42 document saved: Election.sol
+00:03:29.42 Skipping solium, .soliumrc.json not found
+00:03:29.42 validating Election.sol, solium done in 0s
+00:03:29.42 validating Election.sol, solc done in 0s
+00:03:32.11 document changed: Election.sol
+00:03:32.11 Skipping solium, .soliumrc.json not found
+00:03:32.11 validating Election.sol, solium done in 0s
+00:03:32.11 validating Election.sol, solc done in 0s
+00:03:32.11 document saved: Election.sol
+00:03:32.11 Skipping solium, .soliumrc.json not found
+00:03:32.11 validating Election.sol, solium done in 0s
+00:03:32.11 validating Election.sol, solc done in 0s
+00:03:32.35 document changed: Election.sol
+00:03:32.35 Skipping solium, .soliumrc.json not found
+00:03:32.35 validating Election.sol, solium done in 0s
+00:03:32.35 validating Election.sol, solc done in 0s
+00:03:32.35 document saved: Election.sol
+00:03:32.35 Skipping solium, .soliumrc.json not found
+00:03:32.35 validating Election.sol, solium done in 0s
+00:03:32.35 validating Election.sol, solc done in 0s
+00:03:35.16 document changed: Election.sol
+00:03:35.16 Skipping solium, .soliumrc.json not found
+00:03:35.16 validating Election.sol, solium done in 0s
+00:03:35.16 validating Election.sol, solc done in 0s
+00:03:35.51 document changed: Election.sol
+00:03:35.51 Skipping solium, .soliumrc.json not found
+00:03:35.51 validating Election.sol, solium done in 0s
+00:03:35.51 validating Election.sol, solc done in 0s
+00:03:35.51 document saved: Election.sol
+00:03:35.51 Skipping solium, .soliumrc.json not found
+00:03:35.51 validating Election.sol, solium done in 0s
+00:03:35.51 validating Election.sol, solc done in 0s
+00:03:35.74 document changed: Election.sol
+00:03:35.74 Skipping solium, .soliumrc.json not found
+00:03:35.74 validating Election.sol, solium done in 0s
+00:03:35.75 validating Election.sol, solc done in 0s
+00:03:35.75 document saved: Election.sol
+00:03:35.75 Skipping solium, .soliumrc.json not found
+00:03:35.75 validating Election.sol, solium done in 0s
+00:03:35.75 validating Election.sol, solc done in 0s
+00:03:35.99 document changed: Election.sol
+00:03:35.99 Skipping solium, .soliumrc.json not found
+00:03:35.99 validating Election.sol, solium done in 0s
+00:03:35.99 validating Election.sol, solc done in 0s
+00:03:35.99 document saved: Election.sol
+00:03:35.99 Skipping solium, .soliumrc.json not found
+00:03:35.99 validating Election.sol, solium done in 0s
+00:03:35.99 validating Election.sol, solc done in 0s
+00:03:43.03 document changed: Election.sol
+00:03:43.04 Skipping solium, .soliumrc.json not found
+00:03:43.04 validating Election.sol, solium done in 0s
+00:03:43.04 validating Election.sol, solc done in 0s
+00:03:43.35 document changed: Election.sol
+00:03:43.35 Skipping solium, .soliumrc.json not found
+00:03:43.35 validating Election.sol, solium done in 0s
+00:03:43.35 validating Election.sol, solc done in 0s
+00:03:44.35 document changed: Election.sol
+00:03:44.35 Skipping solium, .soliumrc.json not found
+00:03:44.35 validating Election.sol, solium done in 0s
+00:03:44.35 validating Election.sol, solc done in 0s
+00:03:44.35 document saved: Election.sol
+00:03:44.36 Skipping solium, .soliumrc.json not found
+00:03:44.36 validating Election.sol, solium done in 0s
+00:03:44.36 validating Election.sol, solc done in 0s
+00:03:44.56 document changed: Election.sol
+00:03:44.57 Skipping solium, .soliumrc.json not found
+00:03:44.57 validating Election.sol, solium done in 0s
+00:03:44.57 validating Election.sol, solc done in 0s
+00:03:44.57 document saved: Election.sol
+00:03:44.57 Skipping solium, .soliumrc.json not found
+00:03:44.57 validating Election.sol, solium done in 0s
+00:03:44.57 validating Election.sol, solc done in 0s
+00:03:49.01 document changed: Election.sol
+00:03:49.01 Skipping solium, .soliumrc.json not found
+00:03:49.01 validating Election.sol, solium done in 0s
+00:03:49.01 validating Election.sol, solc done in 0s
+00:03:50.12 document changed: Election.sol
+00:03:50.13 Skipping solium, .soliumrc.json not found
+00:03:50.13 validating Election.sol, solium done in 0s
+00:03:50.13 validating Election.sol, solc done in 0s
+00:03:51.04 document changed: Election.sol
+00:03:51.04 Skipping solium, .soliumrc.json not found
+00:03:51.04 validating Election.sol, solium done in 0s
+00:03:51.05 validating Election.sol, solc done in 0s
+00:03:52.27 document changed: Election.sol
+00:03:52.28 Skipping solium, .soliumrc.json not found
+00:03:52.28 validating Election.sol, solium done in 0s
+00:03:52.28 validating Election.sol, solc done in 0s
+00:03:52.28 document saved: Election.sol
+00:03:52.28 Skipping solium, .soliumrc.json not found
+00:03:52.28 validating Election.sol, solium done in 0s
+00:03:52.28 validating Election.sol, solc done in 0s
+00:03:52.49 document changed: Election.sol
+00:03:52.49 Skipping solium, .soliumrc.json not found
+00:03:52.49 validating Election.sol, solium done in 0s
+00:03:52.49 validating Election.sol, solc done in 0s
+00:03:52.49 document saved: Election.sol
+00:03:52.49 Skipping solium, .soliumrc.json not found
+00:03:52.49 validating Election.sol, solium done in 0s
+00:03:52.49 validating Election.sol, solc done in 0s
+00:03:58.37 document changed: Election.sol
+00:03:58.37 Skipping solium, .soliumrc.json not found
+00:03:58.37 validating Election.sol, solium done in 0s
+00:03:58.37 validating Election.sol, solc done in 0s
+00:03:58.67 document changed: Election.sol
+00:03:58.67 Skipping solium, .soliumrc.json not found
+00:03:58.67 validating Election.sol, solium done in 0s
+00:03:58.67 validating Election.sol, solc done in 0s
+00:03:58.67 document saved: Election.sol
+00:03:58.67 Skipping solium, .soliumrc.json not found
+00:03:58.67 validating Election.sol, solium done in 0s
+00:03:58.67 validating Election.sol, solc done in 0s
+00:03:58.89 document changed: Election.sol
+00:03:58.89 Skipping solium, .soliumrc.json not found
+00:03:58.89 validating Election.sol, solium done in 0s
+00:03:58.90 validating Election.sol, solc done in 0s
+00:03:58.90 document saved: Election.sol
+00:03:58.90 Skipping solium, .soliumrc.json not found
+00:03:58.90 validating Election.sol, solium done in 0s
+00:03:58.90 validating Election.sol, solc done in 0s
+00:03:59.06 document changed: Election.sol
+00:03:59.06 Skipping solium, .soliumrc.json not found
+00:03:59.06 validating Election.sol, solium done in 0s
+00:03:59.06 validating Election.sol, solc done in 0s
+00:03:59.06 document saved: Election.sol
+00:03:59.06 Skipping solium, .soliumrc.json not found
+00:03:59.06 validating Election.sol, solium done in 0s
+00:03:59.06 validating Election.sol, solc done in 0s
+00:03:59.23 document changed: Election.sol
+00:03:59.23 Skipping solium, .soliumrc.json not found
+00:03:59.23 validating Election.sol, solium done in 0s
+00:03:59.24 validating Election.sol, solc done in 0s
+00:03:59.24 document saved: Election.sol
+00:03:59.24 Skipping solium, .soliumrc.json not found
+00:03:59.24 validating Election.sol, solium done in 0s
+00:03:59.24 validating Election.sol, solc done in 0s
+00:04:03.31 document changed: Election.sol
+00:04:03.31 Skipping solium, .soliumrc.json not found
+00:04:03.31 validating Election.sol, solium done in 0s
+00:04:03.31 validating Election.sol, solc done in 0s
+00:04:03.31 document saved: Election.sol
+00:04:03.31 Skipping solium, .soliumrc.json not found
+00:04:03.31 validating Election.sol, solium done in 0s
+00:04:03.31 validating Election.sol, solc done in 0s
+00:04:03.43 document changed: Election.sol
+00:04:03.43 Skipping solium, .soliumrc.json not found
+00:04:03.43 validating Election.sol, solium done in 0s
+00:04:03.43 validating Election.sol, solc done in 0s
+00:04:03.43 document saved: Election.sol
+00:04:03.43 Skipping solium, .soliumrc.json not found
+00:04:03.43 validating Election.sol, solium done in 0s
+00:04:03.43 validating Election.sol, solc done in 0s
+00:04:03.64 document changed: Election.sol
+00:04:03.64 Skipping solium, .soliumrc.json not found
+00:04:03.64 validating Election.sol, solium done in 0s
+00:04:03.64 validating Election.sol, solc done in 0s
+00:04:03.64 document saved: Election.sol
+00:04:03.64 Skipping solium, .soliumrc.json not found
+00:04:03.64 validating Election.sol, solium done in 0s
+00:04:03.64 validating Election.sol, solc done in 0s

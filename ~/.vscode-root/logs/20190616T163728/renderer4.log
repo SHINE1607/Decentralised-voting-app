@@ -1,0 +1,2 @@
+[2019-06-16 16:41:03.881] [renderer4] [error] connect ENOENT /Users/shinemohammed/Documents/dapp_vote/~/.vscode-root/1.35.1-shared.sock: Error: connect ENOENT /Users/shinemohammed/Documents/dapp_vote/~/.vscode-root/1.35.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
